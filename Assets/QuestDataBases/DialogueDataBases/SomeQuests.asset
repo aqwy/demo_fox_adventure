@@ -60,11 +60,7 @@ MonoBehaviour:
       value: 
       type: 0
       typeString: CustomFieldType_Text
-    - title: Display Name
-      value: "\u0421\u0442\u0430\u0440\u0438\u043D\u0430 \u0424\u043E\u043A\u0441"
-      type: 0
-      typeString: 
-    portrait: {fileID: 2800000, guid: 767f2db362e4e714fa61a87d9bff4003, type: 3}
+    portrait: {fileID: 0}
     alternatePortraits: []
   - id: 2
     fields:
@@ -92,16 +88,12 @@ MonoBehaviour:
       value: 
       type: 0
       typeString: CustomFieldType_Text
-    - title: Display Name
-      value: "\u0411\u043E\u0431\u0438"
-      type: 0
-      typeString: 
-    portrait: {fileID: 2800000, guid: a4654832369262347ade0591d8c6a9e3, type: 3}
+    portrait: {fileID: 0}
     alternatePortraits: []
   - id: 3
     fields:
     - title: Name
-      value: QuestGiverVendor
+      value: QuestGiverTree
       type: 0
       typeString: CustomFieldType_Text
     - title: Pictures
@@ -124,11 +116,7 @@ MonoBehaviour:
       value: 
       type: 0
       typeString: CustomFieldType_Text
-    - title: Display Name
-      value: "\u041C\u0438\u0441\u0442\u0435\u0440 \u0421\u0443\u044D\u0439\u0437\u0438"
-      type: 0
-      typeString: 
-    portrait: {fileID: 2800000, guid: 9d5b7408788f95b47913fb95e6dcd565, type: 3}
+    portrait: {fileID: 0}
     alternatePortraits: []
   - id: 4
     fields:
@@ -156,11 +144,7 @@ MonoBehaviour:
       value: 
       type: 0
       typeString: CustomFieldType_Text
-    - title: Display Name
-      value: "\u0420\u043E\u0434\u0440\u0438\u0433\u043E"
-      type: 0
-      typeString: 
-    portrait: {fileID: 2800000, guid: 5c0d859cfef242d40a1af0ab2d95abdf, type: 3}
+    portrait: {fileID: 0}
     alternatePortraits: []
   - id: 5
     fields:
@@ -188,11 +172,7 @@ MonoBehaviour:
       value: 
       type: 0
       typeString: CustomFieldType_Text
-    - title: Display Name
-      value: "\u0421\u0442\u0430\u0440\u0438\u043D\u0430 \u0424\u0440\u044D\u043D\u043A"
-      type: 0
-      typeString: 
-    portrait: {fileID: 2800000, guid: 2d337d4c4781a6643a0c4e0c4b62ccb3, type: 3}
+    portrait: {fileID: 0}
     alternatePortraits: []
   - id: 6
     fields:
@@ -220,11 +200,7 @@ MonoBehaviour:
       value: 
       type: 0
       typeString: CustomFieldType_Text
-    - title: Display Name
-      value: "\u041C\u043E\u043B\u043B\u0438"
-      type: 0
-      typeString: 
-    portrait: {fileID: 2800000, guid: aa3eebe7e813cb847bd62dd59a2a6fa1, type: 3}
+    portrait: {fileID: 0}
     alternatePortraits: []
   items:
   - id: 1
@@ -531,11 +507,7 @@ MonoBehaviour:
         typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: "\u041F\u0440\u0438\u0432\u0435\u0442 \u043B\u0438\u0441 \u0435\u0441\u0442\u044C
-          \u043E\u0434\u043D\u043E \u0434\u0435\u043B\u044C\u0446\u0435.\u0422\u044B
-          \u043D\u0430\u0432\u0435\u0440\u043D\u043E\u0435 \u0441\u043B\u044B\u0448\u0430\u043B
-          \u043F\u0440\u043E \u0447\u0435\u0440\u0442\u043E\u0432 \u043E\u0431\u0432\u0430\u043B
-          \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0441\u043B\u0443\u0447\u0438\u043B\u0441\u044F
-          \u0443\u0442\u0440\u043E\u043C. "
+          \u043E\u0434\u043D\u043E \u0434\u0435\u043B\u044C\u0446\u0435."
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -608,11 +580,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "\u041F\u0440\u043E\u0445\u043E\u0434 \u043A \u043E\u0441\u0442\u0440\u043E\u0432\u0443
-          \u0437\u0430\u0432\u0430\u043B\u0438\u043B\u043E, \u043D\u0430\u0448\u0438
-          \u043F\u0430\u0440\u043D\u0438 \u0437\u0430\u0441\u0442\u0440\u044F\u043B\u0438
-          \u043D\u0430 \u043E\u0441\u0442\u0440\u043E\u0432\u0435.\u041D\u0443\u0436\u043D\u043E
-          \u0432\u044B\u0442\u0430\u0449\u0438\u0442\u044C \u0438\u0445 \u0441 \u043E\u0441\u0442\u0440\u043E\u0432\u0430.\u0422\u044B
+        value: "\u041D\u0443\u0436\u043D\u043E \u0432\u044B\u0442\u0430\u0449\u0438\u0442\u044C
+          \u043F\u0430\u0440\u043D\u0435\u0439 \u0441 \u043E\u0441\u0442\u0440\u043E\u0432\u0430.\u0422\u044B
           \u0432 \u0434\u0435\u043B\u0435?"
         type: 0
         typeString: CustomFieldType_Text
@@ -1023,7 +992,7 @@ MonoBehaviour:
         isConnector: 0
         priority: 2
       conditionsString: 
-      userScript: GiveQuest("boss_bob", "1st_start_Quest")
+      userScript: GiveQuest("batEbat", "1st_start_Quest")
       onExecute:
         m_PersistentCalls:
           m_Calls: []
@@ -1131,8 +1100,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: "\u041C\u0438\u0441\u0442\u0435\u0440 \u0421\u0443\u044D\u0439\u0437\u0438
-          \u0432\u0441\u0435 \u043F\u043E\u0434\u0440\u043E\u0431\u043D\u043E \u0440\u0430\u0441\u043A\u0430\u0436\u0435\u0442!"
+        value: "\u0414\u0435\u0432\u0435\u0432\u043E \u0432\u0441\u0441\u0435 \u0440\u0430\u0441\u043A\u0430\u0436\u0435\u0442!"
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -1160,7 +1128,7 @@ MonoBehaviour:
       conditionPriority: 2
       outgoingLinks: []
       conditionsString: CurrentQuestState("1st_start_Quest") == "active" and GetQuestNodeState("1st_start_Quest",
-        "instruktaj_profi") == "active"
+        "instruktaj_derevo") == "active"
       userScript: 
       onExecute:
         m_PersistentCalls:
@@ -1268,7 +1236,7 @@ MonoBehaviour:
         typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: "\u0421\u043B\u0435\u0434\u0443\u0439 \u0443\u043A\u0430\u0437\u0430\u043D\u0438\u044F\u043C
-          \u041C\u0438\u0441\u0442\u0435\u0440 \u0421\u0443\u044D\u0439\u0437\u0438!"
+          \u0434\u0435\u0440\u0435\u0432\u0430!"
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -1306,7 +1274,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 263.04987
-        y: 199.25494
+        y: 198.03543
         width: 160
         height: 30
     - id: 12
@@ -1875,7 +1843,7 @@ MonoBehaviour:
         isConnector: 0
         priority: 2
       conditionsString: 
-      userScript: GiveQuest("npc_vendor", "2st_minigame_Quest")
+      userScript: GiveQuest("magicheskoe_drevo", "2st_minigame_Quest")
       onExecute:
         m_PersistentCalls:
           m_Calls: []
@@ -2013,7 +1981,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: SetActive(MiniGameCanvas,true)
+        value: SetActive(MiniCardGameCanvas,true)
         type: 0
         typeString: CustomFieldType_Text
       - title: Response Menu Sequence
@@ -2428,7 +2396,7 @@ MonoBehaviour:
         width: 160
         height: 30
     canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 0.82
+    canvasZoom: 0.87999994
   - id: 3
     fields:
     - title: Title
