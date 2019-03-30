@@ -1,0 +1,1370 @@
+fileFormatVersion: 2
+guid: 7dd7339fa4f3c6d4a8cc7b7204b28995
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dice_12sided__x1_spin_png_1354836226_0
+    21300002: dice_12sided__x1_spin_png_1354836226_1
+    21300004: dice_12sided__x1_spin_png_1354836226_2
+    21300006: dice_12sided__x1_spin_png_1354836226_3
+    21300008: dice_12sided__x1_spin_png_1354836226_4
+    21300010: dice_12sided__x1_spin_png_1354836226_5
+    21300012: dice_12sided__x1_spin_png_1354836226_6
+    21300014: dice_12sided__x1_spin_png_1354836226_7
+    21300016: dice_12sided__x1_spin_png_1354836226_8
+    21300018: dice_12sided__x1_spin_png_1354836226_9
+    21300020: dice_12sided__x1_spin_png_1354836226_10
+    21300022: dice_12sided__x1_spin_png_1354836226_11
+    21300024: dice_12sided__x1_spin_png_1354836226_12
+    21300026: dice_12sided__x1_spin_png_1354836226_13
+    21300028: dice_12sided__x1_spin_png_1354836226_14
+    21300030: dice_12sided__x1_spin_png_1354836226_15
+    21300032: dice_12sided__x1_spin_png_1354836226_16
+    21300034: dice_12sided__x1_spin_png_1354836226_17
+    21300036: dice_12sided__x1_spin_png_1354836226_18
+    21300038: dice_12sided__x1_spin_png_1354836226_19
+    21300040: dice_12sided__x1_spin_png_1354836226_20
+    21300042: dice_12sided__x1_spin_png_1354836226_21
+    21300044: dice_12sided__x1_spin_png_1354836226_22
+    21300046: dice_12sided__x1_spin_png_1354836226_23
+    21300048: dice_12sided__x1_spin_png_1354836226_24
+    21300050: dice_12sided__x1_spin_png_1354836226_25
+    21300052: dice_12sided__x1_spin_png_1354836226_26
+    21300054: dice_12sided__x1_spin_png_1354836226_27
+    21300056: dice_12sided__x1_spin_png_1354836226_28
+    21300058: dice_12sided__x1_spin_png_1354836226_29
+    21300060: dice_12sided__x1_spin_png_1354836226_30
+    21300062: dice_12sided__x1_spin_png_1354836226_31
+    21300064: dice_12sided__x1_spin_png_1354836226_32
+    21300066: dice_12sided__x1_spin_png_1354836226_33
+    21300068: dice_12sided__x1_spin_png_1354836226_34
+    21300070: dice_12sided__x1_spin_png_1354836226_35
+    21300072: dice_12sided__x1_spin_png_1354836226_36
+    21300074: dice_12sided__x1_spin_png_1354836226_37
+    21300076: dice_12sided__x1_spin_png_1354836226_38
+    21300078: dice_12sided__x1_spin_png_1354836226_39
+    21300080: dice_12sided__x1_spin_png_1354836226_40
+    21300082: dice_12sided__x1_spin_png_1354836226_41
+    21300084: dice_12sided__x1_spin_png_1354836226_42
+    21300086: dice_12sided__x1_spin_png_1354836226_43
+    21300088: dice_12sided__x1_spin_png_1354836226_44
+    21300090: dice_12sided__x1_spin_png_1354836226_45
+    21300092: dice_12sided__x1_spin_png_1354836226_46
+    21300094: dice_12sided__x1_spin_png_1354836226_47
+    21300096: dice_12sided__x1_spin_png_1354836226_48
+    21300098: dice_12sided__x1_spin_png_1354836226_49
+    21300100: dice_12sided__x1_spin_png_1354836226_50
+    21300102: dice_12sided__x1_spin_png_1354836226_51
+    21300104: dice_12sided__x1_spin_png_1354836226_52
+    21300106: dice_12sided__x1_spin_png_1354836226_53
+    21300108: dice_12sided__x1_spin_png_1354836226_54
+    21300110: dice_12sided__x1_spin_png_1354836226_55
+    21300112: dice_12sided__x1_spin_png_1354836226_56
+    21300114: dice_12sided__x1_spin_png_1354836226_57
+    21300116: dice_12sided__x1_spin_png_1354836226_58
+    21300118: dice_12sided__x1_spin_png_1354836226_59
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f131c7f9174ba47980000ca66a25d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 376
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5506b43f168c545a55a82400ab4883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 376
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45d83dd252f0f74f9a155e635d8b664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 376
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651b926d933ffcb40918e7f4e1e53b99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 376
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71598d956353064428f0ec4d8723a0c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 376
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3558b405ebd142a4abef96f43a2f7181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 376
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2852d5b18f7304b9a1fd7ca1698c55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_7
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 376
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2495ae907ac12fa42a726a2fbc9a2675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_8
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 376
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bb5583685bc7f45a475c8c1ca60fa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 376
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91b2437f360ddb4091323a0eb753a5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_10
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 376
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ba6894e8119d145b45b86f00cdaba7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_11
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 376
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a298be1af438ea48aed6bfd12cdc4fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184006355c4a1b24b8c096de2f03b1d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 282
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab78d1dc578b1ec41ada78c195089532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 282
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c7c7612d878b74783b8a2fbe4bb038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 282
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4538306b13cff94aab6ebdb102baf69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 282
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59d4a028cfc3f94b84bb2c0ae83ac69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_17
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 282
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d01f4dc666faaa4e99d59663f6fc985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 282
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4365463df03924494bf4fa62854a18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_19
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 282
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319e0108dac6737449acdd6090db3e4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_20
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 282
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35053f7d6bd58be48b054e4095f82e41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 282
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5912e887f9e8004fa843df7ef562d90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_22
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 282
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdaff3df6cc9f4245bbf9484828a7252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_23
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 282
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a592712840e8246bf5e7dd3f7faaf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320b47e814d1edc4f88745c0013bd9b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_25
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 188
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044362d768be9304d8205899ac8220e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 188
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55d18c8a622c6349bb19d5a3001b918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_27
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 188
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe59697147396b4195a5b85d3e5eacd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_28
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 188
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a444a74d3cf476f4eb165e16a1be08f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_29
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 188
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d608f11e9bbea864bba7f6ba6177f72a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_30
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 188
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b232aad366ab4f49ad8ec3f82d757d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_31
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 188
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66af764c70f3dcc4cb862ac3dfa5e9ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_32
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 188
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb713e05033e4a545af30209201b595a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_33
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 187
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c97fa1883b68947b2717a9c49f6de0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_34
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 188
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd1a32831f6628499f998b8c0e60d5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_35
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 188
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1e6ce740e46d341a1ffcb9b8c1c46b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cb85799a21d1945ba2a268e98d4894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_37
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 94
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50bf3ed8ad9ad64792859ce4a7197c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_38
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 94
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e11b022b50e05419b464b3d484918a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 94
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a577768f02ddfed4da92e8dcc3e8f293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_40
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 94
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b170e3e64ba02946bb49c1efb3bf49e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_41
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 94
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9e65ec4cd7dd34a96de2f7e5d73682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_42
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 94
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7179fc70bb268874b88cd3afb95dda0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_43
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 94
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4164f08df0533ef48a883f40c19dbcc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_44
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 94
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a130bb26e888ddf49be7dbdc9708dbaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_45
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 94
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366ed15485ce3094bb6dd8cd28ed1e32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_46
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 94
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5df97d5aa412254688dc1056ea585df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_47
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 94
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10291067a79589a46ae84e4692dc6f45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8530bfb27ba014ea7b40671cff05d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_49
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9f8d1f2c1d63241b27e9e6218f9af7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_50
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46a16cdfb7d1af499aab8d27b8dfc07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_51
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf417370cb6eb4a47b56acf3aee9d789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_52
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6aae62a96a3a164792a7a5cfc0491bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_53
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f74a0bcca647d4e84d8c37d68d57a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_54
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c04df62f140b1f4ca1ae98e956cea64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_55
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 0
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250d38ae952e00f409f02a132d9e66b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_56
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488b6322b90c6c148a555c5aad1d5cdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_57
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 0
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ede0b2123b146d4c8954b49911e6141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_58
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c294cb4fd09ea4c9dcae5170e83a1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dice_12sided__x1_spin_png_1354836226_59
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 0
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec4f5bc5181d4d418ef70ed549a6412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 70db90cfdbacf184b8e5dfd7ffbf103e
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

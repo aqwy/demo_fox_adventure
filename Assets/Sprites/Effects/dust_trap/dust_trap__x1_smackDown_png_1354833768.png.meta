@@ -1,0 +1,1055 @@
+fileFormatVersion: 2
+guid: c643d20e4a59a4f42be3e64159b3c7a8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dust_trap__x1_smackDown_png_1354833768_0
+    21300002: dust_trap__x1_smackDown_png_1354833768_1
+    21300004: dust_trap__x1_smackDown_png_1354833768_2
+    21300006: dust_trap__x1_smackDown_png_1354833768_3
+    21300008: dust_trap__x1_smackDown_png_1354833768_4
+    21300010: dust_trap__x1_smackDown_png_1354833768_5
+    21300012: dust_trap__x1_smackDown_png_1354833768_6
+    21300014: dust_trap__x1_smackDown_png_1354833768_7
+    21300016: dust_trap__x1_smackDown_png_1354833768_8
+    21300018: dust_trap__x1_smackDown_png_1354833768_9
+    21300020: dust_trap__x1_smackDown_png_1354833768_10
+    21300022: dust_trap__x1_smackDown_png_1354833768_11
+    21300024: dust_trap__x1_smackDown_png_1354833768_12
+    21300026: dust_trap__x1_smackDown_png_1354833768_13
+    21300028: dust_trap__x1_smackDown_png_1354833768_14
+    21300030: dust_trap__x1_smackDown_png_1354833768_15
+    21300032: dust_trap__x1_smackDown_png_1354833768_16
+    21300034: dust_trap__x1_smackDown_png_1354833768_17
+    21300036: dust_trap__x1_smackDown_png_1354833768_18
+    21300038: dust_trap__x1_smackDown_png_1354833768_19
+    21300040: dust_trap__x1_smackDown_png_1354833768_20
+    21300042: dust_trap__x1_smackDown_png_1354833768_21
+    21300044: dust_trap__x1_smackDown_png_1354833768_22
+    21300046: dust_trap__x1_smackDown_png_1354833768_23
+    21300048: dust_trap__x1_smackDown_png_1354833768_24
+    21300050: dust_trap__x1_smackDown_png_1354833768_25
+    21300052: dust_trap__x1_smackDown_png_1354833768_26
+    21300054: dust_trap__x1_smackDown_png_1354833768_27
+    21300056: dust_trap__x1_smackDown_png_1354833768_28
+    21300058: dust_trap__x1_smackDown_png_1354833768_29
+    21300060: dust_trap__x1_smackDown_png_1354833768_30
+    21300062: dust_trap__x1_smackDown_png_1354833768_31
+    21300064: dust_trap__x1_smackDown_png_1354833768_32
+    21300066: dust_trap__x1_smackDown_png_1354833768_33
+    21300068: dust_trap__x1_smackDown_png_1354833768_34
+    21300070: dust_trap__x1_smackDown_png_1354833768_35
+    21300072: dust_trap__x1_smackDown_png_1354833768_36
+    21300074: dust_trap__x1_smackDown_png_1354833768_37
+    21300076: dust_trap__x1_smackDown_png_1354833768_38
+    21300078: dust_trap__x1_smackDown_png_1354833768_39
+    21300080: dust_trap__x1_smackDown_png_1354833768_40
+    21300082: dust_trap__x1_smackDown_png_1354833768_41
+    21300084: dust_trap__x1_smackDown_png_1354833768_42
+    21300086: dust_trap__x1_smackDown_png_1354833768_43
+    21300088: dust_trap__x1_smackDown_png_1354833768_44
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e841f6838ad9244b95f39d8305f9aea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1020
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e10bfa61f5f53448a6959184199f00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1020
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a89d442953994a48a2de94ab57fb490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1020
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4561f3e8c2f33a045a9a7419862e76ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_4
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1020
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79097d5526103e9498b4385400cb4001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_5
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1020
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e0ce11162bfc14fb2010547be647da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_6
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1020
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b27b781fcc69b4a891f0bddd83092e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_7
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1020
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0d4642c1bc258458b3544bc19f72b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_8
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1020
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b547a3072f8fa44b81527fedbaf7ed7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 765
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599e209c53102c14a9ce3d4b68ca2e76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 765
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dc204bac086364d88abfc8533d5d92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 765
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e670f0cc6fc7baf4587c52fc5a02ff13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_12
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 765
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb4370ebcbbb024490efe185601c83c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_13
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 765
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ccb63a6b23a3749813c862da55d540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_14
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 765
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d920cbe1553c4d14e90edbf742352a6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_15
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 765
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973947e21d9c50144a85a679232b8578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_16
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 765
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef668d340725ba42a4b47e4ddfeabfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_17
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 765
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee64666cca203045bc3dba069552d3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc89b72bab2add41940389dda5c7762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_19
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 510
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885e9df62c8734147858e992a85b83ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 510
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc73286d2fc6214abfa08bd05d029d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 510
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76931b1250fc8f4ba31b72770990af3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 510
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a3f27ac5f135b48b90554d7c48f854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_23
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 510
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08054ee502211894d88a71aa76844420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_24
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 510
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d688550e93833fc42b1f58ef79449235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_25
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 510
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3991a2adc659a4a9292574c1fcbe05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_26
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 510
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586f1e6f74fb2e347ac7f4b27d7b58f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f284a68e33f2e4a8073192397a9d58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_28
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 255
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411eb76141476574d8cc039a3c4d39fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_29
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 255
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942d2b5a51b14394a8a48f0b491159e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_30
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 255
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fa103a26cd12b47a7e08998dd8f291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_31
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 255
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27057bf017febc84297b2c408becfade
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_32
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 255
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07482d614eb72c41b0fef7fd0d835af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_33
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 255
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fb0942d14c0b74996dea20f9c9b384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_34
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 255
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac381cb385032ef40aa163f898a9ba37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_35
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 255
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105e0a62e9de0644aa4e3c1953931c6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61eeb1085515fc4c9fd649578ffcffd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_37
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cdea5134259534b98f7c10fb705e14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_38
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00ba166cdb1a024881df2a5bd029857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_39
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a367f8b338f34304384987d8d222d4c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_40
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8217e106867a60f4aac1013c702af57a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_41
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b54af3b71920544a78fea3aa12f5c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_42
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1415935ab8caa5e428ba503767287f21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_43
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143dd62b1154f8c459455c382e4a185a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust_trap__x1_smackDown_png_1354833768_44
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 110
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3ff6fedd215da4490ad207538d5d2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 285cecc6e19a76542b9f687e1fdd9668
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
