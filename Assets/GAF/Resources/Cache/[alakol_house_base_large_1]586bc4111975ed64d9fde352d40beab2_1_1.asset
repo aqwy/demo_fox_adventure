@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59f0b625614a406468ee087f147489e7, type: 3}
+  m_Name: '[alakol_house_base_large_1]586bc4111975ed64d9fde352d40beab2_1_1'
+  m_EditorClassIdentifier: 
+  m_Asset: {fileID: 11400000, guid: 586bc4111975ed64d9fde352d40beab2, type: 2}
+  m_Scale: 1
+  m_CSF: 1
+  m_CurrentDataPath: Assets/Sprites/Homes/bundle-2019.03.31_20.54.16/
+  m_Data:
+  - m_SearchName: bundle-2019.03.31_20.54.16
+    m_SharedTexture: {fileID: 2800000, guid: 2ad75af07840e394d9fad7c85ee9a135, type: 3}
+    m_SharedMaterial: {fileID: 2100000, guid: c24c7cea38d64134c93563125b2d58e5, type: 2}

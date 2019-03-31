@@ -1,7 +1,65 @@
 fileFormatVersion: 2
 guid: 0b183fcba30bd474fbf198d28fd69283
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: street_spirit_ix__x1_idle_png_1354835778_0
+    21300002: street_spirit_ix__x1_idle_png_1354835778_1
+    21300004: street_spirit_ix__x1_idle_png_1354835778_2
+    21300006: street_spirit_ix__x1_idle_png_1354835778_3
+    21300008: street_spirit_ix__x1_idle_png_1354835778_4
+    21300010: street_spirit_ix__x1_idle_png_1354835778_5
+    21300012: street_spirit_ix__x1_idle_png_1354835778_6
+    21300014: street_spirit_ix__x1_idle_png_1354835778_7
+    21300016: street_spirit_ix__x1_idle_png_1354835778_8
+    21300018: street_spirit_ix__x1_idle_png_1354835778_9
+    21300020: street_spirit_ix__x1_idle_png_1354835778_10
+    21300022: street_spirit_ix__x1_idle_png_1354835778_11
+    21300024: street_spirit_ix__x1_idle_png_1354835778_12
+    21300026: street_spirit_ix__x1_idle_png_1354835778_13
+    21300028: street_spirit_ix__x1_idle_png_1354835778_14
+    21300030: street_spirit_ix__x1_idle_png_1354835778_15
+    21300032: street_spirit_ix__x1_idle_png_1354835778_16
+    21300034: street_spirit_ix__x1_idle_png_1354835778_17
+    21300036: street_spirit_ix__x1_idle_png_1354835778_18
+    21300038: street_spirit_ix__x1_idle_png_1354835778_19
+    21300040: street_spirit_ix__x1_idle_png_1354835778_20
+    21300042: street_spirit_ix__x1_idle_png_1354835778_21
+    21300044: street_spirit_ix__x1_idle_png_1354835778_22
+    21300046: street_spirit_ix__x1_idle_png_1354835778_23
+    21300048: street_spirit_ix__x1_idle_png_1354835778_24
+    21300050: street_spirit_ix__x1_idle_png_1354835778_25
+    21300052: street_spirit_ix__x1_idle_png_1354835778_26
+    21300054: street_spirit_ix__x1_idle_png_1354835778_27
+    21300056: street_spirit_ix__x1_idle_png_1354835778_28
+    21300058: street_spirit_ix__x1_idle_png_1354835778_29
+    21300060: street_spirit_ix__x1_idle_png_1354835778_30
+    21300062: street_spirit_ix__x1_idle_png_1354835778_31
+    21300064: street_spirit_ix__x1_idle_png_1354835778_32
+    21300066: street_spirit_ix__x1_idle_png_1354835778_33
+    21300068: street_spirit_ix__x1_idle_png_1354835778_34
+    21300070: street_spirit_ix__x1_idle_png_1354835778_35
+    21300072: street_spirit_ix__x1_idle_png_1354835778_36
+    21300074: street_spirit_ix__x1_idle_png_1354835778_37
+    21300076: street_spirit_ix__x1_idle_png_1354835778_38
+    21300078: street_spirit_ix__x1_idle_png_1354835778_39
+    21300080: street_spirit_ix__x1_idle_png_1354835778_40
+    21300082: street_spirit_ix__x1_idle_png_1354835778_41
+    21300084: street_spirit_ix__x1_idle_png_1354835778_42
+    21300086: street_spirit_ix__x1_idle_png_1354835778_43
+    21300088: street_spirit_ix__x1_idle_png_1354835778_44
+    21300090: street_spirit_ix__x1_idle_png_1354835778_45
+    21300092: street_spirit_ix__x1_idle_png_1354835778_46
+    21300094: street_spirit_ix__x1_idle_png_1354835778_47
+    21300096: street_spirit_ix__x1_idle_png_1354835778_48
+    21300098: street_spirit_ix__x1_idle_png_1354835778_49
+    21300100: street_spirit_ix__x1_idle_png_1354835778_50
+    21300102: street_spirit_ix__x1_idle_png_1354835778_51
+    21300104: street_spirit_ix__x1_idle_png_1354835778_52
+    21300106: street_spirit_ix__x1_idle_png_1354835778_53
+    21300108: street_spirit_ix__x1_idle_png_1354835778_54
+    21300110: street_spirit_ix__x1_idle_png_1354835778_55
+    21300112: street_spirit_ix__x1_idle_png_1354835778_56
+    21300114: street_spirit_ix__x1_idle_png_1354835778_57
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -40,7 +98,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +127,1191 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1240
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef9d7fc4f366b6428e7eb303be7dd36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1240
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256c1c00f3bd42a42a8df0eed1c99b8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1240
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55387f7127d059c4f91aff9c09967cbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1240
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b629db8dccfb464ba950c4df4d71f1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_4
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1240
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b447d59ab77cc44b8bb007a5fa5b14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_5
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1240
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbecd9977cca4444982f138f34e0e96a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_6
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1240
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe616028913eab4c9fe28701841bf1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1085
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db30408ea801b8244907c29da5d5f593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1085
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08cbc3ebea64ee4692e55797fa446a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1085
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073fc82f6f8271a4cb79364ca4eecb68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1085
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd259a72601ca84ba73639509d2d10d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_11
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1085
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaea3795618a214bb27124c8eb03b54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_12
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1085
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4847de7725a5a47b50c5428e5a9616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1085
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297aacc95f895ac4394a4c6847663a61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec688b590fdb474fab739f9902ed255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 930
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f96da9c928cf84bbf8012755e4eb04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 930
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99efd6d065c89ac4097773c5f4fbf09a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 930
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc1bcf44f65f364f920240b86ec8ae4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_18
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 930
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb9561741f14e14b9c28087ea1abca1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_19
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 930
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e8643483d080e4c81ad7fea2cac0d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_20
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 930
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac0d823055252144b3360341e55cac2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 775
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fb4283f4ae1784ea5ea545a68c8f43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_22
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 775
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90940181573a83d4a91814a87facfbe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_23
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 775
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3d0bed3aa1e3a4f97e184467f33671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_24
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 775
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea19648917e5ed54d8b2de6d00cb2a88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_25
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 775
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4b543af1e84954a82b97f15f2df298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_26
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 775
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c981fe2ddf4784a8abf05965e461ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_27
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 775
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4be83fd1172906449d40bdde4308a5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7671524e5b1804386eefdb5969dcfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_29
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 620
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532d7fdb49009b0438bcff7dc472c535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 620
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a2e4dfc134d88478f7d21b04313fde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_31
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 620
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419d5ffd5561a414891c5e27b66c654e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_32
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 620
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f79a04dbcfd5aa438b98f78a703323c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_33
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 620
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc52d4ec4bf857488dae96d5461ac44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_34
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 620
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fc6b41761b65c43abd761fc914a784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedc7d1ef79939645ac5fbf12b295d00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_36
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 465
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0137156cd5d15f143aa25baef4666f04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_37
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 465
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995d612683124b444ad70cf9cb258bdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_38
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 465
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3973cc2d9516e634987bf35d7847475e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_39
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 465
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4893c5efa57204a86f2eccbbd34e6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_40
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 465
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31b734b4e0c4fa478f0a66012be0c2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_41
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 465
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e801620eb7ffdd49a534ec1337d36c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb3e862fcb1b2d47b8563db20a73398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_43
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 310
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462dac7ace32c784497e5ef0611b4495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_44
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 310
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a76964d178d7841809ebc3a655a5b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_45
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 310
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1610222667f61d944b1954399be72f45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_46
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 310
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd33768ab536a754ba2a85ee75d264bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_47
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 310
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b46c20f075ddc04bb74ed25d156a44b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_48
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 310
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de05b93903965634eaa5faa3fb911768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3e8098ff34e5e47b97e8a641aff15b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_50
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 155
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764829c237deb2f4dbcd417587ecb27f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_51
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 155
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4deac8c615d9fdd4a9df4fb00fb66dca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_52
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 155
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64918f7839301224e94df96bc122ad22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_53
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 155
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf01a9c95c4eba4593032787ea16c1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_54
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 155
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d3c7d7c5392784db4266d9fff55665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_55
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 155
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c4820879ced0f49b1207b3c7a3a581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14323932f526b3d4598b930bd586d31e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_spirit_ix__x1_idle_png_1354835778_57
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 142
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328f6f08ece5b9c43b653b49c8539d8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
