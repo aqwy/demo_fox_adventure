@@ -3,15 +3,16 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
+using TMPro;
 
 public class CardGameController : MonoBehaviour
 {
     [SerializeField] private MemoryCard _originalCard;
     [SerializeField] private Sprite[] _sprites;
-    [SerializeField] private Text _scoreLable;
-    [SerializeField] private Text _livesLable;
-    [SerializeField] private Button _winButton;
-    [SerializeField] private Button _lostButton;
+    [SerializeField] private TextMeshProUGUI _scoreLable;
+    [SerializeField] private TextMeshProUGUI _livesLable;
+    [SerializeField] private GameObject _winPanel;
+    [SerializeField] private GameObject _lostPanel;
     [SerializeField] private Image _lostImg;
 
     public int lives = 3;
@@ -36,8 +37,9 @@ public class CardGameController : MonoBehaviour
         _lostImg.raycastTarget = false;
         _lives = lives;
         _livesLable.text = "Lives: " + lives;
-        _winButton.gameObject.SetActive(false);
-        _lostButton.gameObject.SetActive(false);
+        _scoreLable.text = "Score: " + _score;
+        _winPanel.gameObject.SetActive(false);
+        _lostPanel.gameObject.SetActive(false);
     }
     void Start()
     {
@@ -77,7 +79,7 @@ public class CardGameController : MonoBehaviour
 
             if (_score == 6)
             {
-                _winButton.gameObject.SetActive(true);
+                _winPanel.gameObject.SetActive(true);
             }
         }
         else
@@ -89,7 +91,7 @@ public class CardGameController : MonoBehaviour
 
             if (lives <= 0)
             {
-                _lostButton.gameObject.SetActive(true);
+                _lostPanel.gameObject.SetActive(true);
                 _lostImg.raycastTarget = true;
             }
 
