@@ -21,6 +21,7 @@ public class minigame_pazzle_controller : MonoBehaviour
 
     public GameObject nearIslandPanel;
     public GameObject nearLandPanel;
+    public GameObject winPanel;
 
     private int _foxID;
     private int _bagID;
@@ -32,6 +33,9 @@ public class minigame_pazzle_controller : MonoBehaviour
     private bool _foxActivity;
     private bool _bagActivity;
     private bool _chickenActivity;
+    private bool _landActF;
+    private bool _landActB;
+    private bool _landActC;
 
     void Start()
     {
@@ -41,68 +45,18 @@ public class minigame_pazzle_controller : MonoBehaviour
         _chickenID = 3;
         _color = passjireImg.color;
         _color.a = 0f;
+
         passjireImg.gameObject.SetActive(false);
         passajireLandImg.gameObject.SetActive(false);
         nearLandPanel.gameObject.SetActive(false);
+        winPanel.gameObject.SetActive(false);
+
         islandSide = true;
     }
     void Update()
     {
-        activityCheck();
-        if (rules())
-        {
-            Debug.Log("poidet");
-        }
-        else
-        {
-            Debug.Log("ne poidet");
-        }
-        Debug.Log("foxActiv: " + _foxActivity);
-        Debug.Log("bagActiv: " + _bagActivity);
-        Debug.Log("chikActiv: " + _chickenActivity);
-        /*if (_currnetID == 0)
-        {
-            passjireImg.color = _color;
-        }
-        else if (_color.a != 1f)
-        {
-            _color.a = 1f;
-            passjireImg.color = _color;
-        }*/
+        rules();
     }
-    /* public void checkFox()
-     {
-         if (_currnetID == 0)
-         {
-             foxImg.gameObject.SetActive(false);
-             passjireImg.gameObject.SetActive(true);
-             passjireImg.overrideSprite = foxSprite;
-             _currnetID = _foxID;
-             Debug.Log("event sys click fox");
-         }
-     }
-     public void checkBag()
-     {
-         if (_currnetID == 0)
-         {
-             bagImg.gameObject.SetActive(false);
-             passjireImg.gameObject.SetActive(true);
-             passjireImg.overrideSprite = bagSprite;
-             _currnetID = _bagID;
-             Debug.Log("event sys click bag");
-         }
-     }
-     public void checkChick()
-     {
-         if (_currnetID == 0)
-         {
-             chickenImg.gameObject.SetActive(false);
-             passjireImg.gameObject.SetActive(true);
-             passjireImg.overrideSprite = chickenSprite;
-             _currnetID = _chickenID;
-             Debug.Log("event sys click chick");
-         }
-     }*/
 
     public bool checkPerson(Image img, int id)
     {
@@ -124,11 +78,6 @@ public class minigame_pazzle_controller : MonoBehaviour
             passjireImg.overrideSprite = foxSprite;
             passajireLandImg.overrideSprite = foxSprite;
         }
-        /*else if(!islandSide && checkPerson(land_foxImg, _foxID) && nearLandPanel.activeSelf)
-        {
-            passjireImg.overrideSprite = foxSprite;
-            passajireLandImg.overrideSprite = foxSprite;
-        }*/
     }
     public void checkLandFox()
     {
@@ -145,11 +94,6 @@ public class minigame_pazzle_controller : MonoBehaviour
             passjireImg.overrideSprite = bagSprite;
             passajireLandImg.overrideSprite = bagSprite;
         }
-        /*else if (!islandSide && checkPerson(land_bagImg, _bagID) && nearLandPanel.activeSelf)
-        {
-            passjireImg.overrideSprite = bagSprite;
-            passajireLandImg.overrideSprite = bagSprite;
-        }*/
     }
     public void checkLandBag()
     {
@@ -166,11 +110,6 @@ public class minigame_pazzle_controller : MonoBehaviour
             passjireImg.overrideSprite = chickenSprite;
             passajireLandImg.overrideSprite = chickenSprite;
         }
-        /*else if (!islandSide && checkPerson(land_chickenImg, _chickenID) && nearLandPanel.activeSelf)
-        {
-            passjireImg.overrideSprite = chickenSprite;
-            passajireLandImg.overrideSprite = chickenSprite;
-        }*/
     }
     public void checkLandChiken()
     {
@@ -225,53 +164,26 @@ public class minigame_pazzle_controller : MonoBehaviour
 
     public bool rules()
     {
-        bool landActF = land_foxImg.gameObject.activeSelf;
-        bool landActB = land_bagImg.gameObject.activeSelf;
-        bool landActC = land_chickenImg.gameObject.activeSelf;
-        /* if (_foxActivity && _bagActivity)
-         {
-             return true;
-         }
-         else if (landActC && !landActF && !landActB)
-         {
-             return true;
-         }
-         else if (!landActC && landActF || landActB)
-         {
-             return true;
-         }
+        _landActF = land_foxImg.gameObject.activeSelf;
+        _landActB = land_bagImg.gameObject.activeSelf;
+        _landActC = land_chickenImg.gameObject.activeSelf;
+        _foxActivity = foxImg.gameObject.activeSelf;
+        _bagActivity = bagImg.gameObject.activeSelf;
+        _chickenActivity = chickenImg.gameObject.activeSelf;
 
-         return false;*/
+        if(_landActB && _landActC &&_landActF)
+        {
+            winPanel.gameObject.SetActive(true);
+        }
 
         if (_foxActivity && _chickenActivity || _chickenActivity && _bagActivity)
         {
             return false;
         }
-        else if (landActF && landActC || landActC && landActB)
+        else if (_landActF && _landActC || _landActC && _landActB)
         {
             return false;
         }
         return true;
     }
-
-    public void activityCheck()
-    {
-        _foxActivity = foxImg.gameObject.activeSelf;
-        _bagActivity = bagImg.gameObject.activeSelf;
-        _chickenActivity = chickenImg.gameObject.activeSelf;
-
-        /*if (!_foxActivity)
-        {
-            _foxActivity = land_bagImg.gameObject.activeSelf;
-        }
-        if (!_bagActivity)
-        {
-            _bagActivity = land_bagImg.gameObject.activeSelf;
-        }
-        if (!_chickenActivity)
-        {
-            _chickenActivity = land_chickenImg.gameObject.activeSelf;
-        }*/
-    }
-
 }
