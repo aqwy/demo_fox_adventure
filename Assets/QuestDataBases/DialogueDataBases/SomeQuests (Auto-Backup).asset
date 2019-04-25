@@ -992,7 +992,7 @@ MonoBehaviour:
         isConnector: 0
         priority: 2
       conditionsString: 
-      userScript: GiveQuest("batEbat", "1st_start_Quest")
+      userScript: GiveQuest("Boss", "1st_start_Quest")
       onExecute:
         m_PersistentCalls:
           m_Calls: []
@@ -1346,8 +1346,8 @@ MonoBehaviour:
         y: 296.81592
         width: 160
         height: 30
-    canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 0.73000026
+    canvasScrollPosition: {x: 261.75784, y: 122.86244}
+    canvasZoom: 1.1199999
   - id: 2
     fields:
     - title: Title
