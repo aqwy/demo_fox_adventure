@@ -1,7 +1,31 @@
 fileFormatVersion: 2
 guid: bdbc697154e39f64fa91ba90d5c9dd45
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_0
+    21300002: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_1
+    21300004: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_2
+    21300006: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_3
+    21300008: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_4
+    21300010: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_5
+    21300012: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_6
+    21300014: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_7
+    21300016: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_8
+    21300018: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_9
+    21300020: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_10
+    21300022: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_11
+    21300024: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_12
+    21300026: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_13
+    21300028: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_14
+    21300030: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_15
+    21300032: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_16
+    21300034: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_17
+    21300036: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_18
+    21300038: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_19
+    21300040: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_20
+    21300042: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_21
+    21300044: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_22
+    21300046: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_23
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -40,7 +64,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -93,7 +117,487 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721517b1aab0a994e87dad0d4cf1951f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 202
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a94da52a06bde142a1d32fa4f73f8f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 202
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98095755da77de4478c38a390a456155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 202
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c891851e60cee4468fca1ed7bfe5875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 202
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe835d599075bbb4784884c54c662816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_5
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 202
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f942cb27f5d7c824fb6470c0327823d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_6
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 202
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ff192bf97dd234aaffccd3547ec314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_7
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 202
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2786e7e53ee460f4abedb1698c772d13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365da3754f5fbd449818ad9d72943b1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 101
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89705c3cf7fbe144d86dfe39d431fd27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 101
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3aa14a6f7573fc4da2d498e462d0346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_11
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 101
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3271499468417124da93065acef827fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 101
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9016ab2c976e03f499742247cc0899ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_13
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 101
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cc979614302494487ee19c8bdb1ade
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_14
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 101
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a160c817295834c8b471a25dd35672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_15
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 101
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba430de5cb4f0a47aeab96bba52cab2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107d15176b3e07b4786b3c1d1d843dee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_17
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98c38e58568dd8408a38741c3bb7412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_18
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eb923120ea490468167d31ed334ba3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae02f3a95e14824cbe664c34b947524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_20
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152f7af2ecad962438017215956e601b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_21
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b863c7b4c1ff6f24fbec65039fbaa404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_22
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 0
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6146f81801798994c937e9434497e5be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_bureaucrat_arms_04_glasses_none_hair_05_legs_04_necklace_02_tie_none_torso_04_x1_walk1_png_1354833017_23
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 0
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a49ecd309a150b47adfb629538ed44a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
