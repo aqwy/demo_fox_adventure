@@ -1,7 +1,32 @@
 fileFormatVersion: 2
 guid: 0632e9897c3378245a7bb47f5788fe4d
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_0
+    21300002: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_1
+    21300004: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_2
+    21300006: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_3
+    21300008: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_4
+    21300010: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_5
+    21300012: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_6
+    21300014: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_7
+    21300016: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_8
+    21300018: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_9
+    21300020: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_10
+    21300022: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_11
+    21300024: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_12
+    21300026: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_13
+    21300028: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_14
+    21300030: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_15
+    21300032: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_16
+    21300034: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_17
+    21300036: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_18
+    21300038: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_19
+    21300040: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_20
+    21300042: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_21
+    21300044: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_22
+    21300046: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_23
+    21300048: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_24
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -40,7 +65,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +94,531 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855c1c7cfa23ff94b9413ab28dd21295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab1fb291f9e0914d9b1a27030949365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510d2183e8e83a74eb109be30444bd4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f0a655ab648e44d8c60b8a3911cece
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_4
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 920
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734f9d8e51a52df41a9f3ddc8a06ed2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8484010c4988874691259cf8bcb77b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c39f1d4c721fab42a4775825215afb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fae4a531591804fa9a29b7bfe6ff42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_8
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9730ef96d70b6f341b3a1b71ebae1cf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_9
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 690
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84553cd4339c6824b96e8ee447cf776f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc7694ade9e61b41aecbcc018d3d76b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7481bd56e29e484b9cab554eb8db130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_12
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370d98e7c328bd147bd3015c2f702cf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_13
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c77927f5055e094bb39fd6b603774a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_14
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 460
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7656fdf6c69f0f7448b99603906ffe6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e52bc7f0c258a4ca393105a4b6c954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_16
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1306fefe0629b1b4a8dfc988c6597b75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_17
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089f9c90f92e09542bdb844f43945955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_18
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd58695a3ba2464285b83d98049d0ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 230
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a693d54f678bcb47a36fecb04428e0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40af2fbced7f484428771e67587c61ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_21
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab832975a928434418da799742daed3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_22
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627e7a9048ac4cd45b3b0d6da39bb0b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_23
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36697518b7771e54590f6bd712d5e890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_cooking_vendor__x1_idle_stand_part2_png_1354831636_24
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 189
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c6316c9657413469ac46dbc322c27a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

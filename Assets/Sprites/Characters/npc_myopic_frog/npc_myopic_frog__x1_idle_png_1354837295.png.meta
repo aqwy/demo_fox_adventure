@@ -1,7 +1,55 @@
 fileFormatVersion: 2
 guid: fa7b6b574d0874d44b0070d0e61ff6ed
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: npc_myopic_frog__x1_idle_png_1354837295_0
+    21300002: npc_myopic_frog__x1_idle_png_1354837295_1
+    21300004: npc_myopic_frog__x1_idle_png_1354837295_2
+    21300006: npc_myopic_frog__x1_idle_png_1354837295_3
+    21300008: npc_myopic_frog__x1_idle_png_1354837295_4
+    21300010: npc_myopic_frog__x1_idle_png_1354837295_5
+    21300012: npc_myopic_frog__x1_idle_png_1354837295_6
+    21300014: npc_myopic_frog__x1_idle_png_1354837295_7
+    21300016: npc_myopic_frog__x1_idle_png_1354837295_8
+    21300018: npc_myopic_frog__x1_idle_png_1354837295_9
+    21300020: npc_myopic_frog__x1_idle_png_1354837295_10
+    21300022: npc_myopic_frog__x1_idle_png_1354837295_11
+    21300024: npc_myopic_frog__x1_idle_png_1354837295_12
+    21300026: npc_myopic_frog__x1_idle_png_1354837295_13
+    21300028: npc_myopic_frog__x1_idle_png_1354837295_14
+    21300030: npc_myopic_frog__x1_idle_png_1354837295_15
+    21300032: npc_myopic_frog__x1_idle_png_1354837295_16
+    21300034: npc_myopic_frog__x1_idle_png_1354837295_17
+    21300036: npc_myopic_frog__x1_idle_png_1354837295_18
+    21300038: npc_myopic_frog__x1_idle_png_1354837295_19
+    21300040: npc_myopic_frog__x1_idle_png_1354837295_20
+    21300042: npc_myopic_frog__x1_idle_png_1354837295_21
+    21300044: npc_myopic_frog__x1_idle_png_1354837295_22
+    21300046: npc_myopic_frog__x1_idle_png_1354837295_23
+    21300048: npc_myopic_frog__x1_idle_png_1354837295_24
+    21300050: npc_myopic_frog__x1_idle_png_1354837295_25
+    21300052: npc_myopic_frog__x1_idle_png_1354837295_26
+    21300054: npc_myopic_frog__x1_idle_png_1354837295_27
+    21300056: npc_myopic_frog__x1_idle_png_1354837295_28
+    21300058: npc_myopic_frog__x1_idle_png_1354837295_29
+    21300060: npc_myopic_frog__x1_idle_png_1354837295_30
+    21300062: npc_myopic_frog__x1_idle_png_1354837295_31
+    21300064: npc_myopic_frog__x1_idle_png_1354837295_32
+    21300066: npc_myopic_frog__x1_idle_png_1354837295_33
+    21300068: npc_myopic_frog__x1_idle_png_1354837295_34
+    21300070: npc_myopic_frog__x1_idle_png_1354837295_35
+    21300072: npc_myopic_frog__x1_idle_png_1354837295_36
+    21300074: npc_myopic_frog__x1_idle_png_1354837295_37
+    21300076: npc_myopic_frog__x1_idle_png_1354837295_38
+    21300078: npc_myopic_frog__x1_idle_png_1354837295_39
+    21300080: npc_myopic_frog__x1_idle_png_1354837295_40
+    21300082: npc_myopic_frog__x1_idle_png_1354837295_41
+    21300084: npc_myopic_frog__x1_idle_png_1354837295_42
+    21300086: npc_myopic_frog__x1_idle_png_1354837295_43
+    21300088: npc_myopic_frog__x1_idle_png_1354837295_44
+    21300090: npc_myopic_frog__x1_idle_png_1354837295_45
+    21300092: npc_myopic_frog__x1_idle_png_1354837295_46
+    21300094: npc_myopic_frog__x1_idle_png_1354837295_47
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -40,7 +88,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +117,991 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4aa34539a293e7408a00fb82c9a0f45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 122
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f02689ab22444c419725bff6186452f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 122
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cde6f9a57299f848b9d2b948cd98f51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_3
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 122
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4b4f9a00d761043b12166010fba8a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 122
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9d788d22f63614db1041824a2eb65d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_5
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 122
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7949c8653d15ce746822949a2339acaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_6
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 122
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0381e149e396354ebf5919985fd6661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 122
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37a7a4ab9ab37348a95d6c00a85095b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_8
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 122
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8ad0319571f1745a9678c64f55d260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_9
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 122
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b594c1aed4e0044698b265726669459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_10
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 122
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61a00f0a49f4ac4aa80a303048a8791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_11
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 122
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929e0a7eaa6c2b4419586e1bf5b0f530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_12
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 122
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc529fc06231a8d4c9ecb41da97cae37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_13
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 122
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf33e4840752e1a4f90df3e2242ef9f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_14
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 122
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c033754140fc5345b9ba62a97d5dfae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_15
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 122
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8d03d6d06f17d45a684d528301443e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22be1ad4d6ba064dad748ca21873790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 61
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22848bfc7020ab54ca6c2501c9966797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 61
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938f72b1ffb48654899469549f007d80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_19
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 61
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e0e46364bbe6b4299a3da82ff85363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 61
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de1b53e255147b41bfdf6bcbbf54d12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_21
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 61
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160985f1e3dd6b84a8603efdffc6eb45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_22
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 61
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5bc50c50b12e5429f8004407c1abbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_23
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 61
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4619aaf518911e343b81d856db5bc84d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_24
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 61
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e350f149733434cb6e53dd6e90fe81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_25
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 61
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483d8318f23b2db469432cfc187615de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_26
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 61
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c368917e8abe2240ad9ee0fad0dc5e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_27
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 61
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb33c610423e91418089f93509604ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_28
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 61
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c13dd8be587e19409221fcf9b7718db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_29
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 61
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a505add54d17b846a675a2a86d54843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_30
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 61
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06868e019fd2c154ab580c9ce0fe214f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_31
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 61
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5fe58b40b728a4b814e001efa3d7fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adc61a01cfacae4da47bcec37fc7ce5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_33
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc44d4561b26d74488fb333dddb11619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d145063d331144e88e16369a51f77d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d0b6fabaf8c2444af039b4bf78db35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f121a43540b3b149875d3bf412d6b48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_37
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9822bc11f2bee4da1e7d9886183f67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_38
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29774a4bb385561468dd110d7e5faf3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_39
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f565c3722348ea49b69b32828198b4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_40
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e1eb3d37a259b4aba07ae1883d83bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_41
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8c70bf595706b4c8076e088752712b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_42
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd512d9de33f8c478326c00734a3c36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_43
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 0
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f623db9472cc54ca4deafa97c1f5a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_44
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdd255dd60bd7c46a454091d90bd4f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_45
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 0
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1ad498c1577934f8414acb4073614e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_46
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 0
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d810edb4ebd4db43b7e1a9a3dea25a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_myopic_frog__x1_idle_png_1354837295_47
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 0
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c916b4682dda24e8f195332e9825f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

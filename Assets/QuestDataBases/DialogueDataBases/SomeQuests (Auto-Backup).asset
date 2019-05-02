@@ -60,7 +60,7 @@ MonoBehaviour:
       value: 
       type: 0
       typeString: CustomFieldType_Text
-    portrait: {fileID: 0}
+    portrait: {fileID: 2800000, guid: 767f2db362e4e714fa61a87d9bff4003, type: 3}
     alternatePortraits: []
   - id: 2
     fields:
@@ -88,12 +88,12 @@ MonoBehaviour:
       value: 
       type: 0
       typeString: CustomFieldType_Text
-    portrait: {fileID: 0}
+    portrait: {fileID: 2800000, guid: a4654832369262347ade0591d8c6a9e3, type: 3}
     alternatePortraits: []
   - id: 3
     fields:
     - title: Name
-      value: QuestGiverTree
+      value: QuestGiverAlice
       type: 0
       typeString: CustomFieldType_Text
     - title: Pictures
@@ -144,7 +144,7 @@ MonoBehaviour:
       value: 
       type: 0
       typeString: CustomFieldType_Text
-    portrait: {fileID: 0}
+    portrait: {fileID: 2800000, guid: 5c0d859cfef242d40a1af0ab2d95abdf, type: 3}
     alternatePortraits: []
   - id: 5
     fields:
@@ -1346,8 +1346,8 @@ MonoBehaviour:
         y: 296.81592
         width: 160
         height: 30
-    canvasScrollPosition: {x: 261.75784, y: 122.86244}
-    canvasZoom: 1.1199999
+    canvasScrollPosition: {x: 33.898315, y: 0}
+    canvasZoom: 1.1799998
   - id: 2
     fields:
     - title: Title
