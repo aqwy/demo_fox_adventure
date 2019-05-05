@@ -1,7 +1,116 @@
 fileFormatVersion: 2
 guid: 6ea1e3ffe0d7b914e81f7d4bab6cb20c
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_0
+    21300002: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_1
+    21300004: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_2
+    21300006: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_3
+    21300008: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_4
+    21300010: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_5
+    21300012: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_6
+    21300014: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_7
+    21300016: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_8
+    21300018: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_9
+    21300020: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_10
+    21300022: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_11
+    21300024: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_12
+    21300026: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_13
+    21300028: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_14
+    21300030: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_15
+    21300032: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_16
+    21300034: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_17
+    21300036: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_18
+    21300038: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_19
+    21300040: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_20
+    21300042: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_21
+    21300044: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_22
+    21300046: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_23
+    21300048: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_24
+    21300050: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_25
+    21300052: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_26
+    21300054: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_27
+    21300056: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_28
+    21300058: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_29
+    21300060: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_30
+    21300062: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_31
+    21300064: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_32
+    21300066: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_33
+    21300068: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_34
+    21300070: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_35
+    21300072: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_36
+    21300074: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_37
+    21300076: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_38
+    21300078: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_39
+    21300080: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_40
+    21300082: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_41
+    21300084: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_42
+    21300086: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_43
+    21300088: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_44
+    21300090: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_45
+    21300092: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_46
+    21300094: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_47
+    21300096: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_48
+    21300098: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_49
+    21300100: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_50
+    21300102: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_51
+    21300104: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_52
+    21300106: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_53
+    21300108: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_54
+    21300110: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_55
+    21300112: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_56
+    21300114: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_57
+    21300116: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_58
+    21300118: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_59
+    21300120: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_60
+    21300122: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_61
+    21300124: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_62
+    21300126: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_63
+    21300128: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_64
+    21300130: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_65
+    21300132: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_66
+    21300134: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_67
+    21300136: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_68
+    21300138: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_69
+    21300140: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_70
+    21300142: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_71
+    21300144: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_72
+    21300146: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_73
+    21300148: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_74
+    21300150: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_75
+    21300152: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_76
+    21300154: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_77
+    21300156: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_78
+    21300158: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_79
+    21300160: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_80
+    21300162: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_81
+    21300164: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_82
+    21300166: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_83
+    21300168: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_84
+    21300170: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_85
+    21300172: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_86
+    21300174: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_87
+    21300176: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_88
+    21300178: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_89
+    21300180: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_90
+    21300182: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_91
+    21300184: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_92
+    21300186: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_93
+    21300188: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_94
+    21300190: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_95
+    21300192: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_96
+    21300194: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_97
+    21300196: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_98
+    21300198: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_99
+    21300200: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_100
+    21300202: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_101
+    21300204: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_102
+    21300206: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_103
+    21300208: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_104
+    21300210: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_105
+    21300212: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_106
+    21300214: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_107
+    21300216: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_108
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -40,7 +149,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +178,2211 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32dd2c174f2c3941932b9e0d6460c18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908900bb63ada974889883122b399ed7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c46c99cb3fda94686024bd964bcd3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_3
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7808b1a519bcc0a4aa75b9559ab4d21f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_4
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ee0af906ed7314bb41403cecceab9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_5
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e5fd1422ba44f488065e1e67f1761b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_6
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6475a7f03cc2eba49a3809a09d0efbc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_7
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866fa47cae53ddc4fb0a5d93ad0698e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_8
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f2b8c38a14ec4439fc37627ff6f46e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_9
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba046b62f31a1564aba166f00827634c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_10
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd7d7807afb46349b662081146af6a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_11
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe16969445ee0c4eb81b5e1f1fee1d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_12
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d124b373e8ba84ea3b202d9f7d72a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_13
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5282fb1d85320ce4facb74d21a3f1902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_14
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849b80a518c81bd4ab434cd5bf39622c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_15
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1f312b37984b343a3738d4afe49de5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae967493c63dfb4d926b7f5f81cc59a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_17
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae049a06ce6d8474b959326a78f80b5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_18
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878a76683cc3075439b0f92db22c7914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_19
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b869253f90939e4abd8dd7d24849256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_20
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f43b81007af26b4f83dd95a2f6b6421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_21
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933f2dbc87984c647bce18683041271a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_22
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a67b552cabd0df408c28b36971f0b0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_23
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e149260dcfee854a9872465a441af17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_24
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3ad47d3a599ee4492810c0d8bccbe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_25
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e96e544641df774e964d9f36ca3e850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_26
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2756d7992cf65c46ad3004003d873c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_27
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc7a45cb9425a04c81fbe498b8874eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_28
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e12d28974855d4c8c6b0717b402b62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_29
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7723a0b25f655f74db77244971355f65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_30
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973c85988fab2af4c9b471a15d4defb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_31
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d5f66732f72ab4a86f6d9570dbddf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987442998c33dbb4eb860e607d168a05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_33
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09681ec4195fa845be147ee68174c2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_34
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d86df820f6a4944876af1b53ccf94d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_35
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83295a588056f284587324416dd76fb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_36
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0589f0b1e936294aacb08dc8d04c780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_37
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beda4c05219b3e041953c0076ff9717a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_38
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae96b359549189a48856e0a6fb0d467d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_39
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc94a66b972b024297779850c212d55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_40
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0b2e1873151a74f904a95e009abb4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_41
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d0a2c8375495141893af174f0d5983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_42
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04abd2dbdbab3844882a26967c42105d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_43
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7279eb41e40470e4dbc72bad5f744d1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_44
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4832c5bb6a75fcf40aa5d3fc779d510d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_45
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301341c3013b67648ab60f86d43b98ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_46
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb7e23a8b83bcb43b9b7e19580324fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_47
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18e224d5fd15894490ab8477021977a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81d8c936b0b2af4cbee7cc4721c4159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_49
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb002333e6cf7547a3610deb0c05343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_50
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff88f74589d0da64abb5fca9a6ec39ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_51
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c8b95dbbb479d49b367c6f6c3693dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_52
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6d05b97175d514cbef227887ea03de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_53
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa7c3d1c4bd1154482af1e8f65f9ce5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_54
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ac959ab1305544d8b2cf9f75b9c74c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_55
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd197e52c0b27c47b82efae0e60054b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_56
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2962b3d343f8e14f98f9929edc99d62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_57
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b302dc0901d7146bd87dd9184d3fa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_58
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f2b85d280a3ce45a2e7d657ae8f518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_59
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ecf110f6101ed47b1f5df3dca01e36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_60
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82c4dadec6aac74b80227c60caf5c9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_61
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125cfa508856c044f916232e4cab9f11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_62
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e5b6f48f4a88d448454f6a45aecb0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_63
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194cc29bed966ca4b8e8b20c256b0c07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df89e2479b6b0bf4e90e90a5888996d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_65
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f73d71d53159540a7edd5d8e022534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_66
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceae74096341b614eaf11e36c130911a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_67
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e3cea51a3c14d4fb23afc0cb5bbf11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_68
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae1febfc16616c439315df45696eb2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_69
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd64aee5ae26fb14b96e8710ac252b15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_70
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d95d64138ba21f4db0fca35ec3f0b3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_71
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0bfee459710804fa39c67578a3713d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_72
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24e1475f7da11242b2f3e053a9d20ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_73
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18744cc663f24b4bbda7202bba26ccf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_74
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd32e49a0e9f244091d1d76c5b3f664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_75
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e09bad0fd889c4e8706588ee7442b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_76
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7440eda4f3f6b4580eb149e8657d9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_77
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4117717395f8add43abb4dff1414c105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_78
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0ddaee98be08a4cac5a93becebe94d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_79
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78e2cdd8ec652342b9c5603e77e63b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3527f5db4c4b0d47ab51182f9a257cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_81
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf22901065390949bff429e0edb88c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_82
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199ae1efb3e9f804ba1a84920696defd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_83
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933f7abf52d123e4292a2d17f4c37a5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_84
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98e932f0cdf9984ea9eb2d45ce664f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_85
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef3b34a5a478ac48a9afea582e896b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_86
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3178bc541c93dea4e8c8b4344c70496c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_87
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b57a7fcaea518a49b88ac28af57f35e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_88
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07508a79b682944c9cf688dd7dfbf82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_89
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91d9cbb6fb4ae448a49b48a903c5dc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_90
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c11184e38735043a74471763f71e4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_91
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f95fee66cb69904f967a041b749bde7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_92
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d7818c979f786409538d9e9a3423e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_93
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f68ebd10fd7b4428dc9f05dd4be61f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_94
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23b6df3cf34eb34490c47739842e2bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_95
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39caf5519b520244844182b1e8c96eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaecf3249977f4e4c9d065191a4e4639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_97
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe326e3f877d6440a2ff40526d6f20e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_98
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ad8d5d79099184f92ec523376b4074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_99
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9745d918d0bda794cabbf914b61a7ada
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_100
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836b64c2e73f39e4cb54f102e8ea47e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_101
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b6d3c38ce2d0a47802daefe25c12b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_102
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb289beea3977c488ed83663f4911a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_103
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01d8b670883ff54eb41220fd5240514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_104
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e8e99f91963724baace95be5942d02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_105
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a52cd1dc4ca14140ae964f92fb6e332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_106
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b124008532723419035f5ae95514fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_107
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3171535c366a83a4c8e396a4bc4cb881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_smuggler_head_2_variant_red_x1_idleNoBox_png_1354836106_108
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1840c88461787cc4b833a53293d9014d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
