@@ -68,12 +68,12 @@ public class PlayerPlatformerController : PhysicsObject
             spriteRenderer.flipX = !spriteRenderer.flipX;
         }*/
 
-        if (_move.x > 0 && !m_FacingRight)
+        if (_move.x > 0 && m_FacingRight)
         {
             Flip();     // ... flip the player.
         }
 
-        else if (_move.x < 0 && m_FacingRight)
+        else if (_move.x < 0 && !m_FacingRight)
         {
             Flip();     // ... flip the player.
         }
