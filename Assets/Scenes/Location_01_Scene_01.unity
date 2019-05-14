@@ -713,7 +713,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: afde815210b26c744b7c5cd2ac11d0b3, type: 3}
 --- !u!114 &124710474 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4821864556382213191, guid: 025b73ea59f4b244d8c19d312f20286d,
+  m_CorrespondingSourceObject: {fileID: 124710474, guid: e890817166d29114c847bb7cee031b84,
     type: 3}
   m_PrefabInstance: {fileID: 1849746890}
   m_PrefabAsset: {fileID: 0}
@@ -2387,6 +2387,28 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 6591822331079453080}
+        m_MethodName: playMinigameUIClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: win:cardgame
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 124710474}
+        m_MethodName: musicChange
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: win:cardgame
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 323021904}
         m_MethodName: SendToMessageSystem
         m_Mode: 5
@@ -2861,9 +2883,9 @@ Transform:
   m_LocalPosition: {x: -5.05, y: -1.97, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 1460519718}
   - {fileID: 326416383}
   - {fileID: 908643035}
+  - {fileID: 1460519718}
   - {fileID: 637938035}
   - {fileID: 2001201615}
   - {fileID: 264990270}
@@ -4156,17 +4178,17 @@ PrefabInstance:
     - target: {fileID: 2174439629066622379, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2174439629066622379, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2174439629066622379, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -11
       objectReference: {fileID: 0}
     - target: {fileID: 2174439629066622379, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
@@ -4221,17 +4243,17 @@ PrefabInstance:
     - target: {fileID: 2174439629066799665, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2174439629066799665, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2174439629066799665, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -63
       objectReference: {fileID: 0}
     - target: {fileID: 2174439629066799665, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
@@ -4251,17 +4273,17 @@ PrefabInstance:
     - target: {fileID: 2174439629066862081, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2174439629066862081, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2174439629066862081, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -111
       objectReference: {fileID: 0}
     - target: {fileID: 2174439629066862081, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
@@ -4366,17 +4388,17 @@ PrefabInstance:
     - target: {fileID: 2174439629066789611, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2174439629066789611, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2174439629066789611, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -24
       objectReference: {fileID: 0}
     - target: {fileID: 2174439629066789611, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
@@ -4456,17 +4478,17 @@ PrefabInstance:
     - target: {fileID: 2174439629066821723, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2174439629066821723, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2174439629066821723, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -24
       objectReference: {fileID: 0}
     - target: {fileID: 2174439629066821723, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
@@ -6763,12 +6785,23 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 6591822331079453080}
-        m_MethodName: playMinigameClick
+        m_MethodName: playMinigameUIClick
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 124710474}
+        m_MethodName: musicChange
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 2
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -8073,6 +8106,17 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2017416342}
         m_MethodName: restartMinigame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 6591822331079453080}
+        m_MethodName: playMinigameUIClick
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -9476,6 +9520,28 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 6591822331079453080}
+        m_MethodName: playMinigameUIClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 124710474}
+        m_MethodName: musicChange
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1409052727
@@ -9998,7 +10064,6 @@ GameObject:
   - component: {fileID: 1517806770}
   - component: {fileID: 1517806769}
   - component: {fileID: 1517806771}
-  - component: {fileID: 1517806772}
   m_Layer: 5
   m_Name: CardImage
   m_TagString: Untagged
@@ -10021,10 +10086,10 @@ RectTransform:
   m_Father: {fileID: 1817919701}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 600, y: -275}
+  m_SizeDelta: {x: 200, y: 250}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1517806769
 MonoBehaviour:
@@ -10077,37 +10142,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _cardBack: {fileID: 1911895243}
   _cardController: {fileID: 2017416342}
---- !u!114 &1517806772
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1517806767}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -1862395651, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Delegates:
-  - eventID: 4
-    callback:
-      m_PersistentCalls:
-        m_Calls:
-        - m_Target: {fileID: 6591822331079453080}
-          m_MethodName: playMinigameClick
-          m_Mode: 1
-          m_Arguments:
-            m_ObjectArgument: {fileID: 0}
-            m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-            m_IntArgument: 0
-            m_FloatArgument: 0
-            m_StringArgument: 
-            m_BoolArgument: 0
-          m_CallState: 2
-      m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
-        Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  delegates: []
+  _audioSetings: {fileID: 6591822331079453080}
 --- !u!1 &1520925411
 GameObject:
   m_ObjectHideFlags: 0
@@ -11987,7 +12022,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: -680.5287}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1817919702
 MonoBehaviour:
@@ -12331,73 +12366,68 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4821864556382213190, guid: 025b73ea59f4b244d8c19d312f20286d,
+    - target: {fileID: 2285292539648954396, guid: e890817166d29114c847bb7cee031b84,
         type: 3}
       propertyPath: m_Name
       value: AudioContoller
       objectReference: {fileID: 0}
-    - target: {fileID: 4821864556382213188, guid: 025b73ea59f4b244d8c19d312f20286d,
+    - target: {fileID: 1081248248080683603, guid: e890817166d29114c847bb7cee031b84,
         type: 3}
       propertyPath: m_LocalPosition.x
       value: -22.314293
       objectReference: {fileID: 0}
-    - target: {fileID: 4821864556382213188, guid: 025b73ea59f4b244d8c19d312f20286d,
+    - target: {fileID: 1081248248080683603, guid: e890817166d29114c847bb7cee031b84,
         type: 3}
       propertyPath: m_LocalPosition.y
       value: -24.769354
       objectReference: {fileID: 0}
-    - target: {fileID: 4821864556382213188, guid: 025b73ea59f4b244d8c19d312f20286d,
+    - target: {fileID: 1081248248080683603, guid: e890817166d29114c847bb7cee031b84,
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 37.087196
       objectReference: {fileID: 0}
-    - target: {fileID: 4821864556382213188, guid: 025b73ea59f4b244d8c19d312f20286d,
+    - target: {fileID: 1081248248080683603, guid: e890817166d29114c847bb7cee031b84,
         type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4821864556382213188, guid: 025b73ea59f4b244d8c19d312f20286d,
+    - target: {fileID: 1081248248080683603, guid: e890817166d29114c847bb7cee031b84,
         type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4821864556382213188, guid: 025b73ea59f4b244d8c19d312f20286d,
+    - target: {fileID: 1081248248080683603, guid: e890817166d29114c847bb7cee031b84,
         type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4821864556382213188, guid: 025b73ea59f4b244d8c19d312f20286d,
+    - target: {fileID: 1081248248080683603, guid: e890817166d29114c847bb7cee031b84,
         type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 4821864556382213188, guid: 025b73ea59f4b244d8c19d312f20286d,
+    - target: {fileID: 1081248248080683603, guid: e890817166d29114c847bb7cee031b84,
         type: 3}
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 4821864556382213188, guid: 025b73ea59f4b244d8c19d312f20286d,
+    - target: {fileID: 1081248248080683603, guid: e890817166d29114c847bb7cee031b84,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4821864556382213188, guid: 025b73ea59f4b244d8c19d312f20286d,
+    - target: {fileID: 1081248248080683603, guid: e890817166d29114c847bb7cee031b84,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4821864556382213188, guid: 025b73ea59f4b244d8c19d312f20286d,
+    - target: {fileID: 1081248248080683603, guid: e890817166d29114c847bb7cee031b84,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4821864556382213191, guid: 025b73ea59f4b244d8c19d312f20286d,
-        type: 3}
-      propertyPath: trackNumber
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 025b73ea59f4b244d8c19d312f20286d, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: e890817166d29114c847bb7cee031b84, type: 3}
 --- !u!1 &1856861852
 GameObject:
   m_ObjectHideFlags: 0
@@ -13244,7 +13274,7 @@ PrefabInstance:
     - target: {fileID: 445539133407026172, guid: 3184fc0db2cf8734da81079857d0d366,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 445539133407026170, guid: 3184fc0db2cf8734da81079857d0d366,
         type: 3}
@@ -14762,9 +14792,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1112347006}
-        m_MethodName: SetActive
-        m_Mode: 6
+      - m_Target: {fileID: 6591822331079453080}
+        m_MethodName: playMinigameUIClick
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -14782,6 +14812,17 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: win:cardgame
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1112347006}
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
@@ -19114,7 +19155,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &6591822331079453077
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19191,6 +19232,7 @@ MonoBehaviour:
   optionsIconClick: {fileID: 0}
   buttonPointDownSound: {fileID: 0}
   minigameClick_one: {fileID: 8300000, guid: 760d831554f8c344cbe1c3292d57caf6, type: 3}
+  minigame_UIClick: {fileID: 8300000, guid: 5239ae0578ba40644971895779047c44, type: 3}
 --- !u!1 &6591822331266910276
 GameObject:
   m_ObjectHideFlags: 0
@@ -19312,6 +19354,28 @@ MonoBehaviour:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 6591822331079453080}
+        m_MethodName: playMinigameUIClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 124710474}
+        m_MethodName: musicChange
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0

@@ -8,6 +8,7 @@ public class MemoryCard : MonoBehaviour, IPointerClickHandler
 {
     [SerializeField] private GameObject _cardBack;
     [SerializeField] private CardGameController _cardController;
+    [SerializeField] private AudioSettings _audioSetings;
     public int id
     {
         get { return _id; }
@@ -16,6 +17,7 @@ public class MemoryCard : MonoBehaviour, IPointerClickHandler
     private int _id;
     public void OnPointerClick(PointerEventData eventData)
     {
+        _audioSetings.playMinigameClick();
         if (_cardBack.activeSelf && _cardController.canReveal)
         {
             _cardBack.SetActive(false);

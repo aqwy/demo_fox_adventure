@@ -14,7 +14,7 @@ public class AudioController : MonoBehaviour
     {
         musicChange(trackNumber);
     }
-    private void musicChange(int num)
+    public void musicChange(int num)
     {
         if (BackgroundMusicPlayer.Instance != null)
         {

@@ -8,8 +8,10 @@ public class AudioSettings : MonoBehaviour
     [Header("Menu Sounds Settings")]
     [SerializeField] private AudioClip optionsIconClick;
     [SerializeField] private AudioClip buttonPointDownSound;
-    [Header("Menu Sounds Settings")]
+    [Header("MiniGame Sounds Settings")]
     [SerializeField] private AudioClip minigameClick_one;
+    [SerializeField] private AudioClip minigame_UIClick;
+
     public void playMenuClick()
     {
         audioControl.playSound(optionsIconClick);
@@ -21,5 +23,9 @@ public class AudioSettings : MonoBehaviour
     public void playMinigameClick()
     {
         audioControl.playSound(minigameClick_one);
+    }
+    public void playMinigameUIClick()
+    {
+        audioControl.playSound(minigame_UIClick);
     }
 }
