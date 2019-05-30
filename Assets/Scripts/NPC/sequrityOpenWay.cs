@@ -13,8 +13,8 @@ public class sequrityOpenWay : MonoBehaviour
     }
     public void checkQuestState()
     {
-        string state = QuestLog.CurrentQuestState("2st_minigame_Quest");
-        Debug.Log("2st_minigame_Quest:= " + state);
+        string state = QuestLog.CurrentQuestState("2st_new_minicardgame");
+        Debug.Log("2st_new_minicardgame:= " + state);
 
         if (state == "success")
         {

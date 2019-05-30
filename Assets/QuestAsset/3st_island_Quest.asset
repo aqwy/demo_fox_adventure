@@ -167,14 +167,16 @@ MonoBehaviour:
       m_textTableFieldID: 0
     m_stateInfoList:
     - m_actionList: []
-      m_categorizedContentList: []
+      m_categorizedContentList:
+      - m_contentList: []
+      - m_contentList: []
+      - m_contentList: []
     - m_actionList: []
       m_categorizedContentList:
       - m_contentList: []
       - m_contentList:
         - {fileID: 114226756027220468}
-      - m_contentList:
-        - {fileID: 114960435660912464}
+      - m_contentList: []
     - m_actionList: []
       m_categorizedContentList: []
     m_conditionSet:
@@ -186,8 +188,8 @@ MonoBehaviour:
     m_childIndexList: 02000000
     m_canvasRect:
       serializedVersion: 2
-      x: 259.43396
-      y: 111.58489
+      x: 188.43396
+      y: 145.5849
       width: 120
       height: 48
   - m_id:
@@ -229,8 +231,8 @@ MonoBehaviour:
     m_childIndexList: 
     m_canvasRect:
       serializedVersion: 2
-      x: 168.86792
-      y: 180.52829
+      x: 180.86792
+      y: 252.52829
       width: 120
       height: 35
   m_goalEntityTypeName: 
@@ -279,7 +281,9 @@ MonoBehaviour:
   m_Name: BodyTextQuestContent
   m_EditorClassIdentifier: 
   m_bodyText:
-    m_text: Sest v lodku iotpravitsa na ostrov/
+    m_text: "\u0421\u0435\u0441\u0442\u044C \u0432 \u043B\u043E\u0434\u043A\u0443
+      \u0438 \u043E\u0442\u043F\u0440\u0430\u0432\u0438\u0442\u044C\u0441\u044F \u043D\u0430
+      \u043E\u0441\u0442\u0440\u043E\u0432."
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
@@ -372,7 +376,7 @@ MonoBehaviour:
   m_Name: BodyTextQuestContent
   m_EditorClassIdentifier: 
   m_bodyText:
-    m_text: "\u041F\u043E\u0433\u0440\u0443\u0437\u043A\u0430 \u043D\u0430\u043B\u043E\u0434\u043A\u0443
+    m_text: "\u041F\u043E\u0433\u0440\u0443\u0437\u043A\u0430 \u043D\u0430 \u043B\u043E\u0434\u043A\u0443
       \u043F\u0440\u043E\u0448\u043B\u0430 \u0443\u0441\u043F\u0435\u0448\u043D\u043E."
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
@@ -428,23 +432,6 @@ MonoBehaviour:
   m_Name: DialogueSystemConversationQuestContent
   m_EditorClassIdentifier: 
   m_conversation: 3st_island_dialogue
---- !u!114 &114960435660912464
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
-  m_Name: BodyTextQuestContent
-  m_EditorClassIdentifier: 
-  m_bodyText:
-    m_text: sest vlodku
-    m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
 --- !u!114 &114987782025333876
 MonoBehaviour:
   m_ObjectHideFlags: 1

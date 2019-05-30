@@ -994,12 +994,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe85a5844fe55044abf8f696a348c976, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioControl: {fileID: 0}
+  audioControl: {fileID: 1918211662}
   optionsIconClick: {fileID: 8300000, guid: 542d2ce18e37d534a874621a8164caee, type: 3}
   buttonPointDownSound: {fileID: 8300000, guid: 480f006156fd847419a147de754fd39c,
     type: 3}
   minigameClick_one: {fileID: 0}
   minigame_UIClick: {fileID: 0}
+  winSound: {fileID: 0}
 --- !u!1001 &920154117
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1086,6 +1087,10 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: AudioContoller
+      objectReference: {fileID: 0}
+    - target: {fileID: 124710474, guid: e890817166d29114c847bb7cee031b84, type: 3}
+      propertyPath: trackNumber
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1081248248080683603, guid: e890817166d29114c847bb7cee031b84,
         type: 3}
@@ -2103,6 +2108,18 @@ MonoBehaviour:
       m_TypeName: UnityEngine.EventSystems.EventTrigger+TriggerEvent, UnityEngine.UI,
         Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   delegates: []
+--- !u!114 &1918211662 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 124710474, guid: e890817166d29114c847bb7cee031b84,
+    type: 3}
+  m_PrefabInstance: {fileID: 1006569926}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5132d4432c569dc409655d99f9a40b19, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1945274522 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4187820311039987854, guid: 19494facf2ff55c4ab4a685d6fb8d235,

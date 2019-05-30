@@ -72,17 +72,13 @@ MonoBehaviour:
     - m_contentList:
       - {fileID: 114102564692391562}
       - {fileID: 114249487189779576}
-    - m_contentList:
-      - {fileID: 114904045623469880}
-    - m_contentList:
-      - {fileID: 114169243474636504}
+    - m_contentList: []
+    - m_contentList: []
   - m_actionList: []
     m_categorizedContentList:
     - m_contentList:
       - {fileID: 114845479449836282}
-    - m_contentList:
-      - {fileID: 114302286040356636}
-      - {fileID: 114120331132772736}
+    - m_contentList: []
     - m_contentList: []
   - m_actionList: []
     m_categorizedContentList:
@@ -126,8 +122,7 @@ MonoBehaviour:
         - {fileID: 114309131221498374}
       - m_contentList:
         - {fileID: 114743089637327028}
-      - m_contentList:
-        - {fileID: 114562654121602230}
+      - m_contentList: []
     - m_actionList: []
       m_categorizedContentList:
       - m_contentList:
@@ -135,17 +130,20 @@ MonoBehaviour:
       - m_contentList: []
       - m_contentList: []
     - m_actionList: []
-      m_categorizedContentList: []
+      m_categorizedContentList:
+      - m_contentList: []
+      - m_contentList: []
+      - m_contentList: []
     m_conditionSet:
       m_conditionList: []
       m_conditionCountMode: 0
       m_minConditionCount: 0
       m_numTrueConditions: 0
-    m_childIndexList: 01000000
+    m_childIndexList: 03000000
     m_canvasRect:
       serializedVersion: 2
-      x: 305
-      y: 21
+      x: 229
+      y: 13
       width: 120
       height: 48
   - m_id:
@@ -168,28 +166,30 @@ MonoBehaviour:
       m_textTableFieldID: 0
     m_stateInfoList:
     - m_actionList: []
-      m_categorizedContentList: []
+      m_categorizedContentList:
+      - m_contentList: []
+      - m_contentList:
+        - {fileID: 114519264544477558}
+      - m_contentList: []
     - m_actionList: []
       m_categorizedContentList:
+      - m_contentList: []
       - m_contentList:
-        - {fileID: 114916760205891740}
-      - m_contentList:
-        - {fileID: 114963497720158196}
-      - m_contentList:
-        - {fileID: 114973567451813382}
+        - {fileID: 114949189392424938}
+      - m_contentList: []
     - m_actionList: []
       m_categorizedContentList: []
     m_conditionSet:
       m_conditionList:
-      - {fileID: 114421094919163298}
+      - {fileID: 114595302259715730}
       m_conditionCountMode: 1
       m_minConditionCount: 0
       m_numTrueConditions: 0
-    m_childIndexList: 03000000
+    m_childIndexList: 02000000
     m_canvasRect:
       serializedVersion: 2
-      x: 178
-      y: 99
+      x: 326
+      y: 226
       width: 120
       height: 48
   - m_id:
@@ -231,12 +231,12 @@ MonoBehaviour:
     m_childIndexList: 
     m_canvasRect:
       serializedVersion: 2
-      x: 198
-      y: 246
+      x: 171
+      y: 306
       width: 120
       height: 35
   - m_id:
-      m_text: find_security
+      m_text: talk_security
       m_stringAsset: {fileID: 0}
       m_textTable: {fileID: 0}
       m_textTableFieldID: 0
@@ -255,162 +255,85 @@ MonoBehaviour:
       m_textTableFieldID: 0
     m_stateInfoList:
     - m_actionList: []
-      m_categorizedContentList: []
+      m_categorizedContentList:
+      - m_contentList: []
+      - m_contentList: []
+      - m_contentList: []
     - m_actionList: []
       m_categorizedContentList:
+      - m_contentList: []
       - m_contentList:
-        - {fileID: 114405599763983918}
-      - m_contentList:
-        - {fileID: 114530069706468160}
-      - m_contentList:
-        - {fileID: 114436363430821838}
+        - {fileID: 114974068078531538}
+      - m_contentList: []
     - m_actionList: []
-      m_categorizedContentList: []
+      m_categorizedContentList:
+      - m_contentList: []
+      - m_contentList: []
+      - m_contentList: []
     m_conditionSet:
       m_conditionList:
-      - {fileID: 114757362288195854}
+      - {fileID: 114627736840379196}
       m_conditionCountMode: 1
       m_minConditionCount: 0
       m_numTrueConditions: 0
-    m_childIndexList: 02000000
+    m_childIndexList: 0500000004000000
     m_canvasRect:
       serializedVersion: 2
-      x: 348
-      y: 166
+      x: 301
+      y: 98
+      width: 120
+      height: 48
+  - m_id:
+      m_text: vernutsa_s_infoi
+      m_stringAsset: {fileID: 0}
+      m_textTable: {fileID: 0}
+      m_textTableFieldID: 0
+    m_internalName:
+      m_text: 
+      m_stringAsset: {fileID: 0}
+      m_textTable: {fileID: 0}
+      m_textTableFieldID: 0
+    m_nodeType: 4
+    m_isOptional: 0
+    m_state: 0
+    m_speaker:
+      m_text: 
+      m_stringAsset: {fileID: 0}
+      m_textTable: {fileID: 0}
+      m_textTableFieldID: 0
+    m_stateInfoList:
+    - m_actionList: []
+      m_categorizedContentList:
+      - m_contentList: []
+      - m_contentList: []
+      - m_contentList:
+        - {fileID: 114545033159312134}
+    - m_actionList: []
+      m_categorizedContentList:
+      - m_contentList: []
+      - m_contentList:
+        - {fileID: 114829757891637018}
+      - m_contentList: []
+    - m_actionList: []
+      m_categorizedContentList:
+      - m_contentList: []
+      - m_contentList: []
+      - m_contentList: []
+    m_conditionSet:
+      m_conditionList:
+      - {fileID: 114020245560872418}
+      m_conditionCountMode: 1
+      m_minConditionCount: 0
+      m_numTrueConditions: 0
+    m_childIndexList: 01000000
+    m_canvasRect:
+      serializedVersion: 2
+      x: 139
+      y: 175
       width: 120
       height: 48
   m_goalEntityTypeName: 
---- !u!114 &114102564692391562
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c47e1bb9cdd9a474c8d3f5d555d7533a, type: 3}
-  m_Name: HeadingTextQuestContent
-  m_EditorClassIdentifier: 
-  m_useQuestTitle: 1
-  m_headingText:
-    m_text: 
-    m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
-  m_headingLevel: 1
---- !u!114 &114120331132772736
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
-  m_Name: BodyTextQuestContent
-  m_EditorClassIdentifier: 
-  m_bodyText:
-    m_text: Pobedil derevo v karti!
-    m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
---- !u!114 &114160690368964142
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 285a0cf9c914ae847852a4a97a4c9fd0, type: 3}
-  m_Name: DialogueSystemConversationQuestContent
-  m_EditorClassIdentifier: 
-  m_conversation: 2st_minigame_dialogue
---- !u!114 &114169243474636504
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c47e1bb9cdd9a474c8d3f5d555d7533a, type: 3}
-  m_Name: HeadingTextQuestContent
-  m_EditorClassIdentifier: 
-  m_useQuestTitle: 1
-  m_headingText:
-    m_text: 
-    m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
-  m_headingLevel: 1
---- !u!114 &114249487189779576
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 285a0cf9c914ae847852a4a97a4c9fd0, type: 3}
-  m_Name: DialogueSystemConversationQuestContent
-  m_EditorClassIdentifier: 
-  m_conversation: 2st_minigame_dialogue
---- !u!114 &114302286040356636
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c47e1bb9cdd9a474c8d3f5d555d7533a, type: 3}
-  m_Name: HeadingTextQuestContent
-  m_EditorClassIdentifier: 
-  m_useQuestTitle: 1
-  m_headingText:
-    m_text: 
-    m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
-  m_headingLevel: 1
---- !u!114 &114309131221498374
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 285a0cf9c914ae847852a4a97a4c9fd0, type: 3}
-  m_Name: DialogueSystemConversationQuestContent
-  m_EditorClassIdentifier: 
-  m_conversation: 2st_minigame_dialogue
---- !u!114 &114405599763983918
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
-  m_Name: BodyTextQuestContent
-  m_EditorClassIdentifier: 
-  m_bodyText:
-    m_text: 4eta s sequrity
-    m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
---- !u!114 &114421094919163298
+--- !u!114 &114020245560872418
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -435,12 +358,12 @@ MonoBehaviour:
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
   m_message:
-    m_text: win
+    m_text: Discussed Quest
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
   m_parameter:
-    m_text: cardgame
+    m_text: 2st_minigame_Quest
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
@@ -448,7 +371,7 @@ MonoBehaviour:
     m_valueType: 0
     m_intValue: 0
     m_stringValue: 
---- !u!114 &114436363430821838
+--- !u!114 &114102564692391562
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -457,14 +380,55 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
-  m_Name: BodyTextQuestContent
+  m_Script: {fileID: 11500000, guid: c47e1bb9cdd9a474c8d3f5d555d7533a, type: 3}
+  m_Name: HeadingTextQuestContent
   m_EditorClassIdentifier: 
-  m_bodyText:
-    m_text: nati sequrity
+  m_useQuestTitle: 1
+  m_headingText:
+    m_text: 
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
+  m_headingLevel: 1
+--- !u!114 &114160690368964142
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 285a0cf9c914ae847852a4a97a4c9fd0, type: 3}
+  m_Name: DialogueSystemConversationQuestContent
+  m_EditorClassIdentifier: 
+  m_conversation: 2st_minigame_dialogue
+--- !u!114 &114249487189779576
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 285a0cf9c914ae847852a4a97a4c9fd0, type: 3}
+  m_Name: DialogueSystemConversationQuestContent
+  m_EditorClassIdentifier: 
+  m_conversation: 2st_minigame_dialogue
+--- !u!114 &114309131221498374
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 285a0cf9c914ae847852a4a97a4c9fd0, type: 3}
+  m_Name: DialogueSystemConversationQuestContent
+  m_EditorClassIdentifier: 
+  m_conversation: 2st_minigame_dialogue
 --- !u!114 &114463219729205434
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -497,7 +461,7 @@ MonoBehaviour:
   m_Name: DialogueSystemConversationQuestContent
   m_EditorClassIdentifier: 
   m_conversation: 2st_minigame_dialogue
---- !u!114 &114530069706468160
+--- !u!114 &114519264544477558
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -510,7 +474,8 @@ MonoBehaviour:
   m_Name: BodyTextQuestContent
   m_EditorClassIdentifier: 
   m_bodyText:
-    m_text: u vas est nijniy predmet nada nati sequrity
+    m_text: "\u0412\u044B \u043F\u043E\u0431\u0435\u0434\u0438\u043B\u0438 \u0432
+      \u043A\u0430\u0440\u0442\u044B."
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
@@ -527,7 +492,7 @@ MonoBehaviour:
   m_Name: DialogueSystemConversationQuestContent
   m_EditorClassIdentifier: 
   m_conversation: 2st_minigame_dialogue
---- !u!114 &114562654121602230
+--- !u!114 &114545033159312134
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -536,24 +501,17 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 285a0cf9c914ae847852a4a97a4c9fd0, type: 3}
-  m_Name: DialogueSystemConversationQuestContent
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
   m_EditorClassIdentifier: 
-  m_conversation: 2st_minigame_dialogue
---- !u!114 &114743089637327028
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 285a0cf9c914ae847852a4a97a4c9fd0, type: 3}
-  m_Name: DialogueSystemConversationQuestContent
-  m_EditorClassIdentifier: 
-  m_conversation: 2st_minigame_dialogue
---- !u!114 &114757362288195854
+  m_bodyText:
+    m_text: 'bacj
+
+'
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 0}
+    m_textTableFieldID: 0
+--- !u!114 &114595302259715730
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -578,7 +536,45 @@ MonoBehaviour:
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
   m_message:
-    m_text: find
+    m_text: win
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 0}
+    m_textTableFieldID: 0
+  m_parameter:
+    m_text: minigame
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 0}
+    m_textTableFieldID: 0
+  m_value:
+    m_valueType: 0
+    m_intValue: 0
+    m_stringValue: 
+--- !u!114 &114627736840379196
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5682394e55a192147a020b9edf624e51, type: 3}
+  m_Name: MessageQuestCondition
+  m_EditorClassIdentifier: 
+  m_senderSpecifier: 0
+  m_senderID:
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 0}
+    m_textTableFieldID: 0
+  m_targetSpecifier: 0
+  m_targetID:
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 0}
+    m_textTableFieldID: 0
+  m_message:
+    m_text: talk
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
@@ -591,6 +587,37 @@ MonoBehaviour:
     m_valueType: 0
     m_intValue: 0
     m_stringValue: 
+--- !u!114 &114743089637327028
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 285a0cf9c914ae847852a4a97a4c9fd0, type: 3}
+  m_Name: DialogueSystemConversationQuestContent
+  m_EditorClassIdentifier: 
+  m_conversation: 2st_minigame_dialogue
+--- !u!114 &114829757891637018
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_bodyText:
+    m_text: "\u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F \u043A \u0428\u044D\u0439\u043C\u0443\u0441\u0443
+      \u0441 \u0434\u043E\u0431\u044B\u0442\u043E\u0439 \u0438\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u0435\u0439."
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 0}
+    m_textTableFieldID: 0
 --- !u!114 &114845479449836282
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -604,26 +631,7 @@ MonoBehaviour:
   m_Name: DialogueSystemConversationQuestContent
   m_EditorClassIdentifier: 
   m_conversation: 2st_minigame_dialogue
---- !u!114 &114904045623469880
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c47e1bb9cdd9a474c8d3f5d555d7533a, type: 3}
-  m_Name: HeadingTextQuestContent
-  m_EditorClassIdentifier: 
-  m_useQuestTitle: 1
-  m_headingText:
-    m_text: 
-    m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
-  m_headingLevel: 1
---- !u!114 &114916760205891740
+--- !u!114 &114949189392424938
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -636,13 +644,11 @@ MonoBehaviour:
   m_Name: BodyTextQuestContent
   m_EditorClassIdentifier: 
   m_bodyText:
-    m_text: 'test dialog text
-
-'
+    m_text: "\u041F\u043E\u0431\u0435\u0434\u0438\u0442\u044C \u0432 \u0438\u0433\u0440\u0443\n"
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
---- !u!114 &114963497720158196
+--- !u!114 &114974068078531538
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -655,26 +661,9 @@ MonoBehaviour:
   m_Name: BodyTextQuestContent
   m_EditorClassIdentifier: 
   m_bodyText:
-    m_text: 'Vigrat vKarti
-
-'
-    m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
---- !u!114 &114973567451813382
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
-  m_Name: BodyTextQuestContent
-  m_EditorClassIdentifier: 
-  m_bodyText:
-    m_text: proiti instructaj
+    m_text: "\u0421\u043F\u0443\u0441\u0442\u0438\u0442\u044C\u0441\u044F \u0432 \u043F\u043E\u0434\u0432\u0430\u043B,
+      \u043D\u0430\u0439\u0442\u0438 \u043E\u0445\u0440\u0430\u043D\u043D\u0438\u043A\u0430
+      \u0438 \u043F\u043E\u0433\u043E\u0432\u043E\u0440\u0438\u0442\u044C \u0441 \u043D\u0438\u043C."
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0

@@ -21,7 +21,7 @@ MonoBehaviour:
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
   m_title:
-    m_text: Podoidi k derevu
+    m_text: "\u0428\u0435\u0439\u043C\u0443\u0441"
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
@@ -54,7 +54,6 @@ MonoBehaviour:
   m_offerConditionsUnmetContentList: []
   m_offerContentList:
   - {fileID: 114068861435650912}
-  - {fileID: 114538295730595458}
   - {fileID: 114086932955049386}
   m_maxTimes: 1
   m_timesAccepted: 0
@@ -74,15 +73,12 @@ MonoBehaviour:
       - {fileID: 114717993573207368}
     - m_contentList:
       - {fileID: 114315814951555346}
-    - m_contentList:
-      - {fileID: 114048724931468084}
+    - m_contentList: []
   - m_actionList: []
     m_categorizedContentList:
     - m_contentList:
       - {fileID: 114285029964257072}
-    - m_contentList:
-      - {fileID: 114957998183059702}
-      - {fileID: 114399656949292220}
+    - m_contentList: []
     - m_contentList: []
   - m_actionList: []
     m_categorizedContentList:
@@ -143,12 +139,12 @@ MonoBehaviour:
     m_childIndexList: 01000000
     m_canvasRect:
       serializedVersion: 2
-      x: 173
+      x: 173.94339
       y: 40
       width: 120
       height: 48
   - m_id:
-      m_text: instruktaj_derevo
+      m_text: instruktaj_u_shaemusa
       m_stringAsset: {fileID: 0}
       m_textTable: {fileID: 0}
       m_textTableFieldID: 0
@@ -177,8 +173,7 @@ MonoBehaviour:
         - {fileID: 114345664445951700}
       - m_contentList:
         - {fileID: 114115050193756716}
-      - m_contentList:
-        - {fileID: 114765362927371112}
+      - m_contentList: []
     - m_actionList: []
       m_categorizedContentList:
       - m_contentList: []
@@ -193,8 +188,8 @@ MonoBehaviour:
     m_childIndexList: 03000000
     m_canvasRect:
       serializedVersion: 2
-      x: 304
-      y: 123
+      x: 303.0566
+      y: 124.88679
       width: 120
       height: 48
   - m_id:
@@ -263,16 +258,21 @@ MonoBehaviour:
       m_textTableFieldID: 0
     m_stateInfoList:
     - m_actionList: []
-      m_categorizedContentList: []
+      m_categorizedContentList:
+      - m_contentList: []
+      - m_contentList: []
+      - m_contentList: []
     - m_actionList: []
       m_categorizedContentList:
       - m_contentList: []
       - m_contentList:
         - {fileID: 114004437507368694}
-      - m_contentList:
-        - {fileID: 114882127158891992}
+      - m_contentList: []
     - m_actionList: []
-      m_categorizedContentList: []
+      m_categorizedContentList:
+      - m_contentList: []
+      - m_contentList: []
+      - m_contentList: []
     m_conditionSet:
       m_conditionList:
       - {fileID: 114211246432169052}
@@ -306,14 +306,16 @@ MonoBehaviour:
       m_textTableFieldID: 0
     m_stateInfoList:
     - m_actionList: []
-      m_categorizedContentList: []
+      m_categorizedContentList:
+      - m_contentList: []
+      - m_contentList: []
+      - m_contentList: []
     - m_actionList: []
       m_categorizedContentList:
       - m_contentList: []
       - m_contentList:
         - {fileID: 114544797016165968}
-      - m_contentList:
-        - {fileID: 114819628063325748}
+      - m_contentList: []
     - m_actionList: []
       m_categorizedContentList: []
     m_conditionSet:
@@ -349,25 +351,6 @@ MonoBehaviour:
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
---- !u!114 &114048724931468084
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c47e1bb9cdd9a474c8d3f5d555d7533a, type: 3}
-  m_Name: HeadingTextQuestContent
-  m_EditorClassIdentifier: 
-  m_useQuestTitle: 1
-  m_headingText:
-    m_text: 
-    m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
-  m_headingLevel: 1
 --- !u!114 &114068861435650912
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -413,7 +396,8 @@ MonoBehaviour:
   m_Name: BodyTextQuestContent
   m_EditorClassIdentifier: 
   m_bodyText:
-    m_text: Bat skazal pogovarit s derevom
+    m_text: "\u0411\u043E\u0441\u0441 \u0441\u043A\u0430\u0437\u0430\u043B \u043D\u0430\u0439\u0442\u0438
+      \u0438 \u043F\u043E\u0433\u043E\u0432\u043E\u0440\u0438\u0442\u044C \u0441 \u0428\u0435\u0439\u043C\u0443\u0441\u043E\u043C."
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
@@ -544,42 +528,6 @@ MonoBehaviour:
     m_valueType: 0
     m_intValue: 0
     m_stringValue: 
---- !u!114 &114399656949292220
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
-  m_Name: BodyTextQuestContent
-  m_EditorClassIdentifier: 
-  m_bodyText:
-    m_text: ti vipolnil zadani bratuha lsenok
-    m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
---- !u!114 &114538295730595458
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
-  m_Name: BodyTextQuestContent
-  m_EditorClassIdentifier: 
-  m_bodyText:
-    m_text: 'bratan podoidi k derevu
-
-      i vernis nazad.'
-    m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
 --- !u!114 &114544797016165968
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -637,12 +585,12 @@ MonoBehaviour:
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
   m_message:
-    m_text: Pogovorit
+    m_text: instruktaj
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
   m_parameter:
-    m_text: Derevo
+    m_text: shaemusa
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
@@ -650,78 +598,7 @@ MonoBehaviour:
     m_valueType: 0
     m_intValue: 0
     m_stringValue: 
---- !u!114 &114765362927371112
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
-  m_Name: BodyTextQuestContent
-  m_EditorClassIdentifier: 
-  m_bodyText:
-    m_text: pogovarit s derevom
-    m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
 --- !u!114 &114769408540706098
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c47e1bb9cdd9a474c8d3f5d555d7533a, type: 3}
-  m_Name: HeadingTextQuestContent
-  m_EditorClassIdentifier: 
-  m_useQuestTitle: 1
-  m_headingText:
-    m_text: 
-    m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
-  m_headingLevel: 1
---- !u!114 &114819628063325748
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
-  m_Name: BodyTextQuestContent
-  m_EditorClassIdentifier: 
-  m_bodyText:
-    m_text: "\u0412\u0435\u0440\u043D\u0443\u0442\u044C\u0441\u044F \u043A \u0431\u043E\u0441\u0441\u0443."
-    m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
---- !u!114 &114882127158891992
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
-  m_Name: BodyTextQuestContent
-  m_EditorClassIdentifier: 
-  m_bodyText:
-    m_text: "\u0412\u044B\u0432\u0435\u0437\u0442\u0438 \u0440\u0430\u0431\u043E\u0447\u0438\u0445
-      \u0441 \u043E\u0442\u0441\u0442\u0440\u043E\u0432\u0430."
-    m_stringAsset: {fileID: 0}
-    m_textTable: {fileID: 0}
-    m_textTableFieldID: 0
---- !u!114 &114957998183059702
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
