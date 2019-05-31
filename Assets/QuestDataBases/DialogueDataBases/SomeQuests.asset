@@ -1226,7 +1226,9 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: idi k gore!
+        value: "\u0423 \u043C\u043E\u0441\u0442\u0430 \u0442\u0435\u0431\u044F \u0436\u0434\u0451\u0442
+          \u0441\u044E\u0440\u043F\u0440\u0438\u0437, \u0441\u0445\u043E\u0434\u0438,
+          \u043F\u0440\u043E\u0432\u0435\u0440\u044C.\r"
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -1362,8 +1364,12 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: Ya znal 4to magu polojitsa nateba  moi drug lis !!! tivelikolepoen.
-          zahodi ve4erom popit piva i vot tebe novo zadanie! idi k gore
+        value: "\u042F \u0437\u043D\u0430\u043B, \u0447\u0442\u043E \u043C\u043E\u0433\u0443
+          \u043F\u043E\u043B\u043E\u0436\u0438\u0442\u044C\u0441\u044F \u043D\u0430
+          \u0442\u0435\u0431\u044F \u043C\u043E\u0439 \u0434\u0440\u0443\u0433 \u0424\u043E\u043A\u0441,
+          \u0434\u0435\u043B\u043E \u0441\u0434\u0435\u043B\u0430\u043D\u043E, \u0441\u044E\u0440\u043F\u0440\u0438\u0437
+          \u0436\u0434\u0435\u0442 \u0442\u0435\u0431\u044F \u0443 \u043C\u043E\u0441\u0442\u0430
+          \u043A \u043E\u0441\u0442\u0440\u043E\u0432\u0443.\r"
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -2698,8 +2704,8 @@ MonoBehaviour:
         y: 178.17831
         width: 160
         height: 30
-    canvasScrollPosition: {x: 61.049873, y: 19.98566}
-    canvasZoom: 0.9100002
+    canvasScrollPosition: {x: 0, y: 137.13997}
+    canvasZoom: 1.0600001
   - id: 2
     fields:
     - title: Title
@@ -5637,8 +5643,8 @@ MonoBehaviour:
         y: 55.269623
         width: 160
         height: 30
-    canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 1.0299999
+    canvasScrollPosition: {x: 185.8311, y: 425.20978}
+    canvasZoom: 0.88
   - id: 4
     fields:
     - title: Title
@@ -6276,7 +6282,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: SetActive(MiniPuzzleCanvas,true)
+        value: SetActive(puzzle_mini_game1,true)
         type: 0
         typeString: CustomFieldType_Text
       - title: Response Menu Sequence
@@ -6601,8 +6607,8 @@ MonoBehaviour:
         y: 252.72723
         width: 160
         height: 30
-    canvasScrollPosition: {x: 0, y: 30.155424}
-    canvasZoom: 0.7000004
+    canvasScrollPosition: {x: 0, y: 178.35315}
+    canvasZoom: 1.12
   syncInfo:
     syncActors: 0
     syncItems: 0

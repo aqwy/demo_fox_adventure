@@ -2698,8 +2698,8 @@ MonoBehaviour:
         y: 178.17831
         width: 160
         height: 30
-    canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 0.64000046
+    canvasScrollPosition: {x: 0, y: 137.13997}
+    canvasZoom: 1.0600001
   - id: 2
     fields:
     - title: Title
@@ -5637,8 +5637,8 @@ MonoBehaviour:
         y: 55.269623
         width: 160
         height: 30
-    canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 1.0299999
+    canvasScrollPosition: {x: 185.8311, y: 425.20978}
+    canvasZoom: 0.88
   - id: 4
     fields:
     - title: Title
@@ -6276,7 +6276,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: SetActive(MiniPuzzleCanvas,true)
+        value: SetActive(puzzle_mini_game1,true)
         type: 0
         typeString: CustomFieldType_Text
       - title: Response Menu Sequence
@@ -6399,7 +6399,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: pogovarim kogda rewiw problemu
+        value: "\u041F\u043E\u0433\u043E\u0432\u043E\u0440\u0438\u043C, \u043A\u043E\u0433\u0434\u0430
+          \u0442\u044B \u0440\u0435\u0448\u0438\u0448\u044C \u043F\u0440\u043E\u0431\u043B\u0435\u043C\u0443."
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -6559,7 +6560,8 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: Nakonecto mi uedem s ostrova!
+        value: "\u041D\u0430\u043A\u043E\u043D\u0435\u0446 \u0442\u043E \u043C\u044B
+          \u0443\u0435\u0434\u0435\u043C \u0441 \u044D\u0442\u043E\u0433\u043E \u043E\u0441\u0442\u0440\u043E\u0432\u0430."
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -6599,8 +6601,8 @@ MonoBehaviour:
         y: 252.72723
         width: 160
         height: 30
-    canvasScrollPosition: {x: 1.2658691, y: 0}
-    canvasZoom: 0.7900003
+    canvasScrollPosition: {x: 0, y: 178.35315}
+    canvasZoom: 1.12
   syncInfo:
     syncActors: 0
     syncItems: 0

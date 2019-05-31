@@ -8,7 +8,7 @@ namespace FoxAdventure2d
     {
         public enum FadeType
         {
-            Black, Loading, GameOver,
+            Black, Loading,
         }
         
         public static ScreenFader Instance
@@ -45,7 +45,7 @@ namespace FoxAdventure2d
 
         public CanvasGroup faderCanvasGroup;
         public CanvasGroup loadingCanvasGroup;
-        public CanvasGroup gameOverCanvasGroup;
+
         public float fadeDuration = 1f;
 
         protected bool m_IsFading;
@@ -89,8 +89,6 @@ namespace FoxAdventure2d
             CanvasGroup canvasGroup;
             if (Instance.faderCanvasGroup.alpha > 0.1f)
                 canvasGroup = Instance.faderCanvasGroup;
-            else if (Instance.gameOverCanvasGroup.alpha > 0.1f)
-                canvasGroup = Instance.gameOverCanvasGroup;
             else
                 canvasGroup = Instance.loadingCanvasGroup;
             
@@ -106,9 +104,6 @@ namespace FoxAdventure2d
             {
                 case FadeType.Black:
                     canvasGroup = Instance.faderCanvasGroup;
-                    break;
-                case FadeType.GameOver:
-                    canvasGroup = Instance.gameOverCanvasGroup;
                     break;
                 default:
                     canvasGroup = Instance.loadingCanvasGroup;
