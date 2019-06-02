@@ -1347,11 +1347,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: BackgroundMusicPlayer
       objectReference: {fileID: 0}
-    - target: {fileID: 445539133407026173, guid: 3184fc0db2cf8734da81079857d0d366,
-        type: 3}
-      propertyPath: musicVolume
-      value: 0.25
-      objectReference: {fileID: 0}
     - target: {fileID: 445539133407026170, guid: 3184fc0db2cf8734da81079857d0d366,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1406,6 +1401,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 445539133407026173, guid: 3184fc0db2cf8734da81079857d0d366,
+        type: 3}
+      propertyPath: musicVolume
+      value: 0.25
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3184fc0db2cf8734da81079857d0d366, type: 3}
@@ -2026,8 +2026,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_MethodName: MyLevelsQuit
+      - m_Target: {fileID: 1087190401}
+        m_MethodName: Quit
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59f0b625614a406468ee087f147489e7, type: 3}
+  m_Name: '[rook_fly_up]bc3204c1320c5db4c97b98e357bb578d_1_1'
+  m_EditorClassIdentifier: 
+  m_Asset: {fileID: 11400000, guid: bc3204c1320c5db4c97b98e357bb578d, type: 2}
+  m_Scale: 1
+  m_CSF: 1
+  m_CurrentDataPath: Assets/GAF/Examples/Sources/rook_fly_up/
+  m_Data:
+  - m_SearchName: rook_fly_up
+    m_SharedTexture: {fileID: 2800000, guid: 3177da761cd522548aab7a72a3c1911d, type: 3}
+    m_SharedMaterial: {fileID: 2100000, guid: b793b98b3a019f444a4317d69f7c0fbf, type: 2}
+  - m_SearchName: rook_fly_up_2
+    m_SharedTexture: {fileID: 2800000, guid: 03645aacca8bbd54c801c9373851298e, type: 3}
+    m_SharedMaterial: {fileID: 2100000, guid: 9f20ed6c2de787a409f7361b0a066e73, type: 2}
