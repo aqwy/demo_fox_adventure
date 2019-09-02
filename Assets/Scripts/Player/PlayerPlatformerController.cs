@@ -19,10 +19,12 @@ public class PlayerPlatformerController : PhysicsObject
     private Vector2 _move;
     private QuestGiver _questGiver;
     private float _npcSpeed;
+    private bool _releaceControl;
 
     // Use this for initialization
     void Awake()
     {
+        _releaceControl = true;
         _dialog = false;
         _move = Vector2.zero;
         _spriteRenderer = GetComponentInChildren<SpriteRenderer>();
@@ -37,6 +39,24 @@ public class PlayerPlatformerController : PhysicsObject
         /* if ((Input.GetAxis("Horizontal") != 0f || Input.GetMouseButtonDown(0) || Input.GetMouseButtonDown(1))
              && UnityEngine.EventSystems.EventSystem.current.IsPointerOverGameObject())
              return;*/
+
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            if (_releaceControl)
+            {
+                /*if (ScreenFader.IsFading)
+                    return;*/
+
+                _releaceControl = false;
+                Time.timeScale = 0;
+                UnityEngine.SceneManagement.SceneManager.LoadSceneAsync("UIPause", UnityEngine.SceneManagement.LoadSceneMode.Additive);
+            }
+            else
+            {
+                Unpause();
+                _releaceControl = true;
+            }
+        }
 
         if (Input.GetButtonDown(interactButton))
         {
@@ -86,6 +106,21 @@ public class PlayerPlatformerController : PhysicsObject
 
         targetVelocity = _move * maxSpeed;
     }
+    public void Unpause()
+    {
+        if (Time.timeScale > 0)
+            return;
+
+        StartCoroutine(UnpauseCoroutine());
+    }
+
+    protected IEnumerator UnpauseCoroutine()
+    {
+        Time.timeScale = 1;
+        UnityEngine.SceneManagement.SceneManager.UnloadSceneAsync("UIPause");
+        yield return new WaitForFixedUpdate();
+        yield return new WaitForEndOfFrame();
+    }
     private void Flip()
     {
         m_FacingRight = !m_FacingRight;
@@ -112,7 +147,7 @@ public class PlayerPlatformerController : PhysicsObject
         {
             _move.x = Input.GetAxis("Horizontal");
         }
-        else
+        else if (_dialog || !_releaceControl)
         {
             _move = Vector2.zero;
         }

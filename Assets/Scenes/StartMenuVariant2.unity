@@ -1407,6 +1407,11 @@ PrefabInstance:
       propertyPath: musicVolume
       value: 0.25
       objectReference: {fileID: 0}
+    - target: {fileID: 445539133407026173, guid: 3184fc0db2cf8734da81079857d0d366,
+        type: 3}
+      propertyPath: musicPlayOnAwake
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3184fc0db2cf8734da81079857d0d366, type: 3}
 --- !u!1 &1371269574 stripped
@@ -3233,6 +3238,62 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 4187206263114464086, guid: 19494facf2ff55c4ab4a685d6fb8d235,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4108785621334617470, guid: 19494facf2ff55c4ab4a685d6fb8d235,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4108785621334617470, guid: 19494facf2ff55c4ab4a685d6fb8d235,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4108785621334617470, guid: 19494facf2ff55c4ab4a685d6fb8d235,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4291605263072173208, guid: 19494facf2ff55c4ab4a685d6fb8d235,
+        type: 3}
+      propertyPath: m_text
+      value: 'A - Move Left
+
+        D - Move Right
+
+        F - Start Dialogue
+
+        Esc - Pause Menu'
+      objectReference: {fileID: 0}
+    - target: {fileID: 4291605263072173208, guid: 19494facf2ff55c4ab4a685d6fb8d235,
+        type: 3}
+      propertyPath: m_havePropertiesChanged
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4291605263072173208, guid: 19494facf2ff55c4ab4a685d6fb8d235,
+        type: 3}
+      propertyPath: m_isInputParsingRequired
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4291605263072173208, guid: 19494facf2ff55c4ab4a685d6fb8d235,
+        type: 3}
+      propertyPath: m_textInfo.characterCount
+      value: 64
+      objectReference: {fileID: 0}
+    - target: {fileID: 4291605263072173208, guid: 19494facf2ff55c4ab4a685d6fb8d235,
+        type: 3}
+      propertyPath: m_textInfo.spaceCount
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4291605263072173208, guid: 19494facf2ff55c4ab4a685d6fb8d235,
+        type: 3}
+      propertyPath: m_textInfo.wordCount
+      value: 16
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 19494facf2ff55c4ab4a685d6fb8d235, type: 3}

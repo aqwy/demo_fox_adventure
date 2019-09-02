@@ -748,7 +748,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 156353511}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -160.9, y: 1.5, z: 0}
+  m_LocalPosition: {x: -292.47, y: 1.5, z: 0}
   m_LocalScale: {x: 1.3, y: 1.3, z: 1}
   m_Children:
   - {fileID: 1527873466}
@@ -3258,17 +3258,17 @@ PrefabInstance:
     - target: {fileID: 2174439629066789611, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2174439629066789611, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2174439629066789611, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -24
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2174439629066789611, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
@@ -14673,7 +14673,10 @@ PolygonCollider2D:
       - {x: -2.475101, y: -0.77300406}
       - {x: -2.7199712, y: -0.90304935}
       - {x: -3.1307957, y: -1.045501}
-      - {x: 3.0825012, y: -1.0609858}
+      - {x: 3.1917338, y: -1.141026}
+      - {x: 3.1928883, y: -0.99807376}
+      - {x: 2.9309406, y: -0.9347412}
+      - {x: 2.7550514, y: -0.8269579}
       - {x: 1.157262, y: 0.43771014}
       - {x: 1.046865, y: 0.5053005}
 --- !u!4 &2126643987
@@ -14816,15 +14819,24 @@ CompositeCollider2D:
         Y: -27091480
       - X: -142764288
         Y: -31365030
-      - X: 140562048
-        Y: -31829574
+      - X: 145543056
+        Y: -34230780
+      - X: 145595696
+        Y: -29942212
+      - X: 133650896
+        Y: -28042236
+      - X: 125630344
+        Y: -24808736
       - X: 52771144
         Y: 13131304
       - X: 47737040
         Y: 15159016
   m_CompositePaths:
     m_Paths:
-    - - {x: 5.2771144, y: 1.3131304}
+    - - {x: 14.559569, y: -2.9942212}
+      - {x: 13.365089, y: -2.8042235}
+      - {x: 12.563035, y: -2.4808736}
+      - {x: 5.2771144, y: 1.3131304}
       - {x: 4.773704, y: 1.5159016}
       - {x: 4.1160507, y: 1.6586764}
       - {x: 1.8279496, y: 1.6399201}
@@ -14838,7 +14850,7 @@ CompositeCollider2D:
       - {x: -11.28646, y: -2.3190122}
       - {x: -12.403069, y: -2.709148}
       - {x: -14.276429, y: -3.136503}
-      - {x: 14.056205, y: -3.1829574}
+      - {x: 14.554306, y: -3.423078}
   m_VertexDistance: 0.3
 --- !u!50 &2133850719
 Rigidbody2D:
