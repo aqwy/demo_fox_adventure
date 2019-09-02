@@ -1288,7 +1288,7 @@ MonoBehaviour:
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 1920, y: 1080}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 1
+  m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -1756,6 +1756,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Cameras
+      objectReference: {fileID: 0}
+    - target: {fileID: 1405884475948984894, guid: 5c51dbea908d3ff41ba6c830b60b2f67,
+        type: 3}
+      propertyPath: m_BackGroundColor.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1405884475948984894, guid: 5c51dbea908d3ff41ba6c830b60b2f67,
+        type: 3}
+      propertyPath: m_BackGroundColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1405884475948984894, guid: 5c51dbea908d3ff41ba6c830b60b2f67,
+        type: 3}
+      propertyPath: m_BackGroundColor.b
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4894859295443297119, guid: 5c51dbea908d3ff41ba6c830b60b2f67,
         type: 3}
@@ -3294,6 +3309,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_textInfo.wordCount
       value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4291394456811035284, guid: 19494facf2ff55c4ab4a685d6fb8d235,
+        type: 3}
+      propertyPath: m_MatchWidthOrHeight
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 19494facf2ff55c4ab4a685d6fb8d235, type: 3}
