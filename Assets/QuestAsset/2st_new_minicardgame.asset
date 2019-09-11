@@ -27,7 +27,7 @@ MonoBehaviour:
     m_textTableFieldID: 0
   m_icon: {fileID: 0}
   m_group:
-    m_text: Save world!
+    m_text: "\u0413\u0435\u0440\u043E\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0441\u043F\u0430\u0441\u0435\u043D\u0438\u0435"
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
@@ -78,7 +78,9 @@ MonoBehaviour:
     m_categorizedContentList:
     - m_contentList:
       - {fileID: 114766436643377164}
-    - m_contentList: []
+    - m_contentList:
+      - {fileID: 114813587261094122}
+      - {fileID: 114243221251480132}
     - m_contentList: []
   - m_actionList: []
     m_categorizedContentList:
@@ -376,6 +378,24 @@ MonoBehaviour:
     m_valueType: 0
     m_intValue: 0
     m_stringValue: 
+--- !u!114 &114243221251480132
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_bodyText:
+    m_text: "\u0418\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u0430\u0436 \u043F\u0440\u043E\u0439\u0434\u0435\u043D
+      \u0443\u0441\u043F\u0435\u0448\u043D\u043E."
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 0}
+    m_textTableFieldID: 0
 --- !u!114 &114270033701856456
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -551,6 +571,23 @@ MonoBehaviour:
   m_Name: DialogueSystemConversationQuestContent
   m_EditorClassIdentifier: 
   m_conversation: 2st_minigame_dialogue
+--- !u!114 &114813587261094122
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0ed0c4e68ee98946bb5016adda42373, type: 3}
+  m_Name: BodyTextQuestContent
+  m_EditorClassIdentifier: 
+  m_bodyText:
+    m_text: 
+    m_stringAsset: {fileID: 0}
+    m_textTable: {fileID: 0}
+    m_textTableFieldID: 0
 --- !u!114 &114895472552698894
 MonoBehaviour:
   m_ObjectHideFlags: 1

@@ -2660,11 +2660,84 @@ MonoBehaviour:
           \u0431\u044B\u0432\u0448\u0438\u0439 \u0433\u043B\u0430\u0432\u0430 \u0443\u043F\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435
           \u0440\u0430\u0437\u0432\u0435\u0434\u043A\u0438 \u043B\u0435\u0441\u043D\u043E\u0433\u043E
           \u0432\u0435\u0434\u043E\u043C\u0441\u0442\u0432\u0430 \u0442\u0438\u0445\u043E\u043E\u043A\u0435\u0430\u043D\u0441\u043A\u043E\u0433\u043E
-          \u043E\u043A\u0440\u0443\u0433\u0430. \u041C\u044B \u0441 \u043D\u0438\u043C
-          \u0443\u0436\u0435 \u0432\u0441\u0435 \u043E\u0431\u0441\u0443\u0434\u0438\u043B\u0438,
-          \u0438 \u043E\u043D \u0436\u0434\u0435\u0442 \u043C\u043E\u0435\u0433\u043E
-          \u0447\u0435\u043B\u043E\u0432\u0435\u043A\u0430. \u0422\u044B \u043D\u0430\u0439\u0434\u0435\u0448\u044C
-          \u0435\u0433\u043E \u0432\u043E\u0437\u043B\u0435 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\u0430."
+          \u043E\u043A\u0440\u0443\u0433\u0430."
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Parenthetical
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Audio Files
+        value: '[]'
+        type: 3
+        typeString: CustomFieldType_Files
+      - title: Video File
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 30
+        destinationConversationID: 1
+        destinationDialogueID: 31
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+        m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+      canvasRect:
+        serializedVersion: 2
+        x: 1285.8063
+        y: 192.29596
+        width: 160
+        height: 30
+    - id: 31
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Pictures
+        value: '[]'
+        type: 3
+        typeString: CustomFieldType_Files
+      - title: Description
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Dialogue Text
+        value: "\u041C\u044B \u0441 \u043D\u0438\u043C \u0443\u0436\u0435 \u0432\u0441\u0435
+          \u043E\u0431\u0441\u0443\u0434\u0438\u043B\u0438, \u0438 \u043E\u043D \u0436\u0434\u0435\u0442
+          \u043C\u043E\u0435\u0433\u043E \u0447\u0435\u043B\u043E\u0432\u0435\u043A\u0430.
+          \u0422\u044B \u043D\u0430\u0439\u0434\u0435\u0448\u044C \u0435\u0433\u043E
+          \u0432\u043E\u0437\u043B\u0435 \u043C\u0430\u0433\u0430\u0437\u0438\u043D\u0430."
         type: 0
         typeString: CustomFieldType_Text
       - title: Parenthetical
@@ -2700,12 +2773,12 @@ MonoBehaviour:
           Culture=neutral, PublicKeyToken=null
       canvasRect:
         serializedVersion: 2
-        x: 1128.1593
-        y: 178.17831
+        x: 1388.1592
+        y: 276.4136
         width: 160
         height: 30
-    canvasScrollPosition: {x: 0, y: 57.15066}
-    canvasZoom: 0.97000015
+    canvasScrollPosition: {x: 137.29808, y: 19.08489}
+    canvasZoom: 0.6700002
   - id: 2
     fields:
     - title: Title
@@ -3763,9 +3836,9 @@ MonoBehaviour:
         destinationDialogueID: 8
         isConnector: 0
         priority: 2
-      conditionsString: 'CurrentQuestState("3st_island_Quest") == "success"
+      conditionsString: 'CurrentQuestState("2st_new_minicardgame") == "success"
 
-        and CurrentQuestState("3st_island_Quest") == "success"'
+        and CurrentQuestState("4st_backToEarth_Quest") == "success"'
       userScript: 
       onExecute:
         m_PersistentCalls:
@@ -4146,8 +4219,8 @@ MonoBehaviour:
         y: 576.16534
         width: 160
         height: 30
-    canvasScrollPosition: {x: 93.561615, y: 220.07938}
-    canvasZoom: 0.7300004
+    canvasScrollPosition: {x: 358.69626, y: 224.2981}
+    canvasZoom: 0.75999975
   - id: 3
     fields:
     - title: Title
@@ -5646,8 +5719,8 @@ MonoBehaviour:
         y: 55.269623
         width: 160
         height: 30
-    canvasScrollPosition: {x: 185.8311, y: 425.20978}
-    canvasZoom: 0.88
+    canvasScrollPosition: {x: 4.3479004, y: 19.565186}
+    canvasZoom: 0.46000034
   - id: 4
     fields:
     - title: Title
@@ -6036,7 +6109,7 @@ MonoBehaviour:
         value: "\u042F \u0434\u0430\u0436\u0435 \u0438 \u043D\u0435 \u0431\u0443\u0434\u0443
           \u0441\u043F\u0440\u0430\u0448\u0438\u0432\u0430\u0442\u044C, \u0447\u0442\u043E
           \u0442\u0443\u0442 \u0443 \u0432\u0430\u0441 \u043F\u0440\u043E\u0438\u0437\u043E\u0448\u043B\u043E,
-          \ \u043D\u043E \u043D\u0430\u0441 \u043D\u0430\u0434\u043E \u0443\u0431\u0438\u0440\u0430\u0442\u044C\u0441\u044F
+          \u043D\u043E \u043D\u0430\u043C \u043D\u0430\u0434\u043E \u0443\u0431\u0438\u0440\u0430\u0442\u044C\u0441\u044F
           \u043E\u0442\u0441\u044E\u0434\u0430, \u043F\u043E\u0442\u043E\u043C\u0443
           \u0447\u0442\u043E \u0434\u0440\u0443\u0433\u043E\u0439 \u0448\u0430\u043D\u0441
           \u0443\u0435\u0445\u0430\u0442\u044C \u043F\u043E\u044F\u0432\u0438\u0442\u0441\u044F
@@ -6610,8 +6683,8 @@ MonoBehaviour:
         y: 252.72723
         width: 160
         height: 30
-    canvasScrollPosition: {x: 0, y: 148.07382}
-    canvasZoom: 0.9400002
+    canvasScrollPosition: {x: 0, y: 47.46958}
+    canvasZoom: 0.76000035
   syncInfo:
     syncActors: 0
     syncItems: 0

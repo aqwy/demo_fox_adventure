@@ -660,7 +660,7 @@ PrefabInstance:
     - target: {fileID: 882669808401315518, guid: ba7810fdf4afc7040a1180269acd2231,
         type: 3}
       propertyPath: m_UsedByComposite
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 882669808401315518, guid: ba7810fdf4afc7040a1180269acd2231,
         type: 3}
@@ -10760,12 +10760,6 @@ PrefabInstance:
     m_RemovedComponents:
     - {fileID: 7035388452304193676, guid: 0e53bab580d9fe744ae13888629529e8, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 0e53bab580d9fe744ae13888629529e8, type: 3}
---- !u!60 &340925223 stripped
-PolygonCollider2D:
-  m_CorrespondingSourceObject: {fileID: 882669808401315518, guid: ba7810fdf4afc7040a1180269acd2231,
-    type: 3}
-  m_PrefabInstance: {fileID: 73142135}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &340943977
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15581,17 +15575,17 @@ PrefabInstance:
     - target: {fileID: 2174439629066789611, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2174439629066789611, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2174439629066789611, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: -24
       objectReference: {fileID: 0}
     - target: {fileID: 2174439629066789611, guid: eec55d004f2210e4c817add7a6e8cc97,
         type: 3}
@@ -42833,30 +42827,6 @@ CompositeCollider2D:
         Y: -154320352
       - X: -418116224
         Y: -159583680
-  - m_Collider: {fileID: 340925223}
-    m_ColliderPaths:
-    - - X: 2212444672
-        Y: -89594792
-      - X: 2185107712
-        Y: -88622456
-      - X: 2165241600
-        Y: -90584408
-      - X: 2132209792
-        Y: -91564128
-      - X: 2102382720
-        Y: -89154272
-      - X: 2085134080
-        Y: -91895112
-      - X: 2064510848
-        Y: -94549872
-      - X: 2038859136
-        Y: -97965072
-      - X: 2008133760
-        Y: -102023448
-      - X: 2008517760
-        Y: -154320352
-      - X: 2212384000
-        Y: -159583680
   - m_Collider: {fileID: 1450993151}
     m_ColliderPaths:
     - - X: 2015037184
@@ -42883,16 +42853,7 @@ CompositeCollider2D:
         Y: -159583680
   m_CompositePaths:
     m_Paths:
-    - - {x: 221.24448, y: -8.959479}
-      - {x: 218.51077, y: -8.862246}
-      - {x: 216.52417, y: -9.058441}
-      - {x: 213.22098, y: -9.156413}
-      - {x: 210.23828, y: -8.915427}
-      - {x: 208.51341, y: -9.189511}
-      - {x: 206.45108, y: -9.454988}
-      - {x: 203.88591, y: -9.796507}
-      - {x: 201.49663, y: -10.112098}
-      - {x: 201.50372, y: -10.021559}
+    - - {x: 201.50372, y: -10.021559}
       - {x: 198.39688, y: -10.383602}
       - {x: 195.63525, y: -10.436274}
       - {x: 192.41817, y: -10.074967}
@@ -43035,8 +42996,6 @@ CompositeCollider2D:
       - {x: 180.8284, y: -15.958368}
       - {x: 180.82884, y: -15.436606}
       - {x: 201.03839, y: -15.958368}
-      - {x: 201.07918, y: -15.437905}
-      - {x: 221.2384, y: -15.958368}
   m_VertexDistance: 0.3
 --- !u!50 &1687993412
 Rigidbody2D:
@@ -52392,7 +52351,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 744032225
   m_SortingLayer: 1
-  m_SortingOrder: 22
+  m_SortingOrder: 23
   m_Sprite: {fileID: 21300000, guid: fa76e32561836114d9ae47a98c432461, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

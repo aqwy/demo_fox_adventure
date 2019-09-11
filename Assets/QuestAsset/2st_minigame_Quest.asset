@@ -27,7 +27,7 @@ MonoBehaviour:
     m_textTableFieldID: 0
   m_icon: {fileID: 0}
   m_group:
-    m_text: Save world!
+    m_text: "\u0413\u0435\u0440\u043E\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0441\u043F\u0430\u0441\u0435\u043D\u0438\u0435"
     m_stringAsset: {fileID: 0}
     m_textTable: {fileID: 0}
     m_textTableFieldID: 0
@@ -661,7 +661,7 @@ MonoBehaviour:
   m_Name: BodyTextQuestContent
   m_EditorClassIdentifier: 
   m_bodyText:
-    m_text: "\u0421\u043F\u0443\u0441\u0442\u0438\u0442\u044C\u0441\u044F \u0432 \u043F\u043E\u0434\u0432\u0430\u043B,
+    m_text: "\u0421\u043F\u0443\u0441\u0442\u0438\u0442\u044C\u0441\u044F \u0432 \u043F\u043E\u0434\u0437\u0435\u043C\u0435\u043B\u044C\u0435,
       \u043D\u0430\u0439\u0442\u0438 \u043E\u0445\u0440\u0430\u043D\u043D\u0438\u043A\u0430
       \u0438 \u043F\u043E\u0433\u043E\u0432\u043E\u0440\u0438\u0442\u044C \u0441 \u043D\u0438\u043C."
     m_stringAsset: {fileID: 0}
